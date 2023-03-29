@@ -11,7 +11,6 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "./jar/xpg.jar"
 		},
 		{
 			"key": "csp_Kunyu77",
