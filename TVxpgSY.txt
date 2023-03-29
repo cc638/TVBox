@@ -1,5 +1,5 @@
 {
-	"spider": "https://gitea.com/285396587/xiaopingguo/raw/branch/main/XPG/jar/777.png",
+	"spider": "./jar/777.png",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [
 		{
@@ -23,7 +23,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://gitea.com/285396587/xiaopingguo/raw/branch/main/XPG/jar/xpg.jar"
+			"jar": "./jar/xpg.jar"
 		},
 		{
 			"key": "csp_Kunyu77",
@@ -113,40 +113,40 @@
 			"name": "腾讯视频",
 			"type": 3,
 			"searchable": 1,
-			"api": "https://gitea.com/285396587/xiaopingguo/raw/branch/main/52670576tvbox/js/jsAPI/drpy2.min.js",
-			"ext": "https://gitea.com/285396587/xiaopingguo/raw/branch/main/52670576tvbox/js/tengxun.js"
+			"api": "./js/jsAPI/drpy2.min.js",
+			"ext": "./js/腾讯.js"
 		},
 		{
 			"key": "优酷",
 			"name": "优酷视频",
 			"type": 3,
 			"searchable": 1,
-			"api": "https://gitea.com/285396587/xiaopingguo/raw/branch/main/52670576tvbox/js/jsAPI/drpy2.min.js",
-			"ext": "https://gitea.com/285396587/xiaopingguo/raw/branch/main/52670576tvbox/js/youku.js"
+			"api": "./js/jsAPI/drpy2.min.js",
+			"ext": "./js/优酷.js"
 		},
 		{
 			"key": "芒果",
 			"name": "芒果视频",
 			"type": 3,
 			"searchable": 1,
-			"api": "https://gitea.com/285396587/xiaopingguo/raw/branch/main/52670576tvbox/js/jsAPI/drpy2.min.js",
-			"ext": "https://gitea.com/285396587/xiaopingguo/raw/branch/main/52670576tvbox/js/mangguo.js"
+			"api": "./js/jsAPI/drpy2.min.js",
+			"ext": "./js/芒果.js"
 		},
 		{
 			"key": "搜狗",
 			"name": "搜狗视频",
 			"type": 3,
 			"searchable": 1,
-			"api": "https://gitea.com/285396587/xiaopingguo/raw/branch/main/52670576tvbox/js/jsAPI/drpy2.min.js",
-			"ext": "https://gitea.com/285396587/xiaopingguo/raw/branch/main/52670576tvbox/js/caigou.js"
+			"api": "./js/jsAPI/drpy2.min.js",
+			"ext": "./js/搜狗.js"
 		},
 		{
 			"key": "爱奇艺",
 			"name": "爱奇艺视频",
 			"type": 3,
 			"searchable": 1,
-			"api": "https://gitea.com/285396587/xiaopingguo/raw/branch/main/52670576tvbox/js/jsAPI/drpy2.min.js",
-			"ext": "https://gitea.com/285396587/xiaopingguo/raw/branch/main/52670576tvbox/js/aiqiyi.js"
+			"api": "./js/jsAPI/drpy2.min.js",
+			"ext": "./js/爱奇艺.js"
 		},
 		{
 			"key": "ga",
