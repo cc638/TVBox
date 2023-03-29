@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/777.png",
+	"spider": "./jar/YSC.jar",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=http://maoyingshi.cc/tvbox/zhibo/1.txt"]}]}],
 	"sites": [
