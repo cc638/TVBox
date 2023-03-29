@@ -9,8 +9,8 @@
 			"type": 3,
 			"api": "csp_LiteApple",
 			"searchable": 1,
-			"quickSearch": 1,\\TVxpgSY.txt
-			"filterable": 1,
+			"quickSearch": 1,
+			"filterable": 1
 			"jar": "./jar/xpg.jar"
 		},
 		{
