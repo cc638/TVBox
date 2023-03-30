@@ -19,7 +19,7 @@ Github 增强-高速下载 🔰[https://greasyfork.org/zh-CN/scripts/412245](htt
 #### NP.管理器-3.0.44-v8a,v7a.apk   
 [NP管理器_3.0.45.apk](https://wwn.lanzouj.com/im1yy096b8id)   
 #### MT.管理器v2.11.3.apk  
-([MT.vip管理器.apk](https://liucn.lanzouv.com/i7i5g092us8d)  ([MT管理器v2.11.3.apk](https://liucn.lanzouv.com/iDrnn0980rlg)
+[MT.vip管理器.apk](https://liucn.lanzouv.com/i7i5g092us8d)                 [MT管理器v2.11.3.apk](https://liucn.lanzouv.com/iDrnn0980rlg)
 #### 如果要替换文件，
  - MT管理器中打开安装包，在res文件夹内找到  
  - 如图标 原包里的图标名5j.png 需先改名，如 “5j1.png”，然后在导入相同名的图标名5j.png。
