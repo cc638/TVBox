@@ -1,19 +1,12 @@
 https://gitea.com/52670576/tvbox/raw/branch/master/ysc.json  学习克隆
 ------
-### 开源仓库
-https://github.com/  
-https://gitlab.com/  
-https://gitee.com/  
-https://coding.net/  
-https://gitcode.net/  
-https://gitea.com/  仓库名是 mao,tvbox,box,tv等类似的，有几率出现 1.删除仓库 2.删除用户 3.封禁账户 4.黑名单  
-https://agit.ai/  
-https://notabug.org/  
+### 开源仓库 
+https://gitea.com/  仓库名是 mao,tvbox,box,tv等类似的，有几率出现 1.删除仓库 2.删除用户 3.封禁账户 4.黑名单   
 EGP源  
 http://epg.51zmt.top:8000/e.xml  
 https://epg.112114.xyz/pp.xml  
 ------
-### 给英文不好的朋友
+### 翻译
 GitHub 中文化插件   🔰[https://greasyfork.org/zh-CN/scripts/435208](https://greasyfork.org/zh-CN/scripts/435208)  
 Github 增强-高速下载 🔰[https://greasyfork.org/zh-CN/scripts/412245](https://greasyfork.org/zh-CN/scripts/412245)    
 ------
