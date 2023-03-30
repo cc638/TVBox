@@ -8,6 +8,7 @@
 {"key": "快看","name": "🍎备份源九","type": 3,"api": "csp_Kuaikan","searchable": 1},
 {"key": "搜狗","name": "搜狗视频","type": 3,"searchable": 1,"api": "./js/jsAPI/drpy2.min.js","ext": "./js/搜狗.js"},
 {"key": "爱奇艺","name": "爱奇艺视频","type": 3,"searchable": 1,"api": "./js/jsAPI/drpy2.min.js","ext": "./js/爱奇艺.js"},
+{"key": "360","name": "360影视","type": 3,"searchable": 1,"api": "./js/jsAPI/drpy2.min.js","ext": "./js/360影视.js"},
 {"key": "ga","name": "光速资源","type": 0,"api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/","searchable": 1}
 ],
 	"parses": [
