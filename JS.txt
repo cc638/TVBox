@@ -1,7 +1,0 @@
-{
-  "success": false,
-  "error": {
-    "code": "UnprocessableEntity",
-    "message": "https://gitea.com/285396587/TV/raw/branch/main/XPG.txt."
-  }
-}
