@@ -2,6 +2,6 @@
   "success": false,
   "error": {
     "code": "UnprocessableEntity",
-    "message": "Purge path was not provided in the request."
+    "message": "https://gitea.com/285396587/TV/raw/branch/main/XPG.txt."
   }
 }
