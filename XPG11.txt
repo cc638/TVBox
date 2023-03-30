@@ -18,14 +18,14 @@
 			"url": "https://jx.bozrc.com:4433/player/?url="
 		},
 		{
-			"name": "纯净",
+			"name": "m3u8",
 			"type": 0,
-			"url": "https://z1.m1907.top/?jx="
+			"url": "https://jx.m3u8.tv/jiexi/?url="
 		},
 		{
-			"name": "解析",
+			"name": "8090",
 			"type": 0,
-			"url": "https://svip.bljiex.cc/?v="
+			"url": "https://www.8090g.cn/?url="
 		}
 	],
     "rules": [
