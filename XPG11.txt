@@ -1,5 +1,5 @@
 {
-"spider": "./jar/777.png",
+"spider": "./jar/YSC.jar",
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "lives":[{"name":"自义定11","type":0,"url":"https://gitea.com/285396587/TV/raw/branch/main/zhibo.txt"}],
 "sites": [
