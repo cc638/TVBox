@@ -17,10 +17,10 @@ Github 增强-高速下载 🔰[https://greasyfork.org/zh-CN/scripts/412245](htt
 ------
 ## 增加软件内置源，改软件图标，替换系统菜单图标和修改软件名等操作
 #### NP.管理器-3.0.44-v8a,v7a.apk   
-[https://wwn.lanzouj.com/im1yy096b8id](https://wwn.lanzouj.com/im1yy096b8id)  
-[https://liucn.lanzouv.com/iYyvj092us2h](https://liucn.lanzouv.com/iYyvj092us2h)  
+[NP管理器_3.0.45.apk](https://wwn.lanzouj.com/im1yy096b8id)   
 #### MT.管理器v2.11.3.apk  
-([https://liucn.lanzouv.com/i7i5g092us8d](https://liucn.lanzouv.com/iDrnn0980rlg)
+([MT.vip管理器.apk](https://liucn.lanzouv.com/i7i5g092us8d)
+([MT管理器v2.11.3.apk](https://liucn.lanzouv.com/iDrnn0980rlg)
 #### 如果要替换文件，
  - MT管理器中打开安装包，在res文件夹内找到  
  - 如图标 原包里的图标名5j.png 需先改名，如 “5j1.png”，然后在导入相同名的图标名5j.png。
