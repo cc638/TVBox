@@ -4,7 +4,7 @@
 "lives":[{"name":"","type":0,"url":"http://maoyingshi.cc/tvbox/zhibo/1.txt"}],
 "sites": [
 {"key": "db","name": "🐏豆瓣","type": 3,"searchable": 1,"api": "./js/jsAPI/drpy2.min.js","ext": "./js/豆瓣.js"},
-{"key": "小苹果","name": "🐏主力源","type": 3,"api": "csp_LiteApple","searchable": 1},
+{"key": "小苹果","name": "🐏小苹果","type": 3,"api": "csp_LiteApple","searchable": 1},
 {"key": "Kunyu77","name": "🐏备份源一","type": 3,"api": "csp_Kunyu77","searchable": 1},
 {"key": "快看","name": "🐏备份源九","type": 3,"api": "csp_Kuaikan","searchable": 1},
 {"key": "搜狗","name": "🐏搜狗视频","type": 3,"searchable": 1,"api": "./js/jsAPI/drpy2.min.js","ext": "./js/搜狗.js"},
