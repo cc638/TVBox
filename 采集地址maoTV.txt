@@ -1,8 +1,5 @@
 {"name":"🚀海玉影视","url":"https://tv2.hykjtv.cn/api.php/v1.vod"},
-{"name":"🚀佳佳影视","url":"https://www.jiajia.pub/api.php/v1.vod"},
-{"name":"🚀群鑫影视","url":"http://www.qunxinys.com/api.php/v1.vod"},
-{"name":"🚀可乐影视","url":"http://klyingshi.com/api.php/v1.vod"},
-{"name":"🚀麦穗影视","url":"http://b.maisui66.cn/api.php/v1.vod"},
+{"name":"🚀佳佳影视","url":"https://www.jiajia.pub/api.php/v1.vod"}
 {"name":"🚀铭轩影视","url":"http://lz0716.com/api.php/v1.vod"},
 {"name":"🚀全球星","url":"http://www.mzok.cn/api.php/v1.vod"},
 {"name":"🚀氢视频","url":"http://www.h1080p.com/api.php/tv.vod"},
