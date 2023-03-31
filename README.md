@@ -17,7 +17,6 @@ Github 增强-高速下载 🔰[https://greasyfork.org/zh-CN/scripts/412245](htt
  - 找到 com.github.tvbox.osc.ui.activity 目录下的 HomeActivity 文件
  - 打开 HomeActivity 文件，右上方按钮点开搜索 const-string v5,""
  - 内置的源地址输入到" "引号中就完成了内置源。按 Esc 保存并退出，最后点安装包 “功能” 签名
- 123 | 456
  ---------|---------
 ![box](https://liu673cn.github.io/box/sub/img/mt01.jpg) | ![Pluto](https://liu673cn.github.io/box/sub/img/mt04.jpg)
 ![box](https://liu673cn.github.io/box/sub/img/mt02.jpg) | ![Pluto](https://liu673cn.github.io/box/sub/img/mt05.jpg)
