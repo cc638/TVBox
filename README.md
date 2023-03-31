@@ -1,21 +1,7 @@
- **
-https://gitea.com/52670576/tvbox/raw/branch/master/ysc.json  学习克隆
-------
-### 开源仓库 
-https://gitea.com/  仓库名是 mao,tvbox,box,tv等类似的，有几率出现 1.删除仓库 2.删除用户 3.封禁账户 4.黑名单   
-EGP源  
-http://epg.51zmt.top:8000/e.xml  
-https://epg.112114.xyz/pp.xml  
-------
 ### 翻译
 GitHub 中文化插件   🔰[https://greasyfork.org/zh-CN/scripts/435208](https://greasyfork.org/zh-CN/scripts/435208)  
 Github 增强-高速下载 🔰[https://greasyfork.org/zh-CN/scripts/412245](https://greasyfork.org/zh-CN/scripts/412245)    
-------
-### Github 静态加速  
-`https://cdn.staticaly.com/gh/liu673cn/box/main/m.json`  
-`https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json`  
-`https://purge.jsdelivr.net/gh/`  
-------
+
 ## 增加软件内置源，改软件图标，替换系统菜单图标和修改软件名等操作
 #### NP.管理器-3.0.44-v8a,v7a.apk   
 [NP管理器_3.0.45.apk](https://wwn.lanzouj.com/im1yy096b8id)   
@@ -35,4 +21,4 @@ Github 增强-高速下载 🔰[https://greasyfork.org/zh-CN/scripts/412245](htt
  ---------|---------
 ![box](https://liu673cn.github.io/box/sub/img/mt01.jpg) | ![Pluto](https://liu673cn.github.io/box/sub/img/mt04.jpg)
 ![box](https://liu673cn.github.io/box/sub/img/mt02.jpg) | ![Pluto](https://liu673cn.github.io/box/sub/img/mt05.jpg)
-![box](https://liu673cn.github.io/box/sub/img/mt03.jpg) | ![Pluto](https://liu673cn.github.io/box/sub/img/mt06.jpg)** 
+![box](https://liu673cn.github.io/box/sub/img/mt03.jpg) | ![Pluto](https://liu673cn.github.io/box/sub/img/mt06.jpg)** ** 
