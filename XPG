@@ -1,6 +1,6 @@
 {
 "spider": "./jar/YSC.jar",
-"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+"wallpaper": "./jar/img",
 "lives":[{"name":"","type":0,"url":"http://maoyingshi.cc/tvbox/zhibo/1.txt"}],
 "sites": [
 {"key": "db","name": "🐏豆瓣","type": 3,"searchable": 1,"api": "./js/jsAPI/drpy2.min.js","ext": "./js/豆瓣.js"},
