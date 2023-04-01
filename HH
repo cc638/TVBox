@@ -1,5 +1,5 @@
 {
-"spider":"https://gitee.com/tvcc/HH/raw/main/YSC.jar",
+"spider":"https://gitee.com/tvcc/TV/raw/cc/jar/YSC.jar",
 "wallpaper":"https://gitee.com/tvcc/TV/raw/cc/jar/img",
 "sites": [
 {"key":"2","name":"CK资源","type":0,"searchable": 1,"api":"https://ckzy.me/api.php/provide/vod/at/xml"},
