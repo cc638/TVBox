@@ -11,7 +11,7 @@
 {"type": 3,"key": "6",  "name": "🐏厂长影视",       "api": "csp_Czsapp"},
 {"type": 3,"key": "7",  "name": "🐏  兔小贝",       "api": "./js/jsAPI/drpy2.min.js",     "ext": "./js/兔小贝.js"},
 {"type": 3,"key": "8",  "name": "🐏创艺影视",       "api": "./js/jsAPI/drpy2.min.js",     "ext": "./js/创艺影视.js"},
-{"type": 0,"key": "9",  "name": "🐏阿里资源",       "api": "http://aliys.cn:90/api.php/v1.vod"},
+{"type": 0,"key": "9",  "name": "🐏忆梦官采",       "api": "http://anltv.cn/api.php/provide/vod/?ac=list"},
 {"type": 0,"key": "十",  "name": "🐏超多资源",       "api": "http://app.mengdandan.com/xgapp.php/v1"}
 ],
 "parses": [
