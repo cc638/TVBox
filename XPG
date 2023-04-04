@@ -3,9 +3,9 @@
 "wallpaper": "./jar/img",
 "lives":[{"name":"猫TV","type":0,"url":"http://maoyingshi.cc/tvbox/zhibo/1.txt"}],
 "sites": [
-{"key": "1",  "name": "🐏小苹果",    "type": 3,   "api": "csp_LiteApple", "searchable": 1},
-{"key": "2",  "name": "🐏360影视",   "type": 3,   "api": "csp_SP360",     "searchable": 1},
-{"key": "3",  "name": "🐏快看",      "type": 3,   "api": "csp_Kuaikan",   "searchable": 1},
+{"key": "1",  "name": "🐏小苹果",    "type": 3,   "api": "csp_LiteApple"},
+{"key": "2",  "name": "🐏360影视",   "type": 3,   "api": "csp_SP360"},
+{"key": "3",  "name": "🐏快看",      "type": 3,   "api": "csp_Kuaikan"},
 {"key": "4",  "name": "🐏光速资源",   "type": 0,   "searchable": 1,  "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/"},
 {"key": "5",  "name": "🐏搜狗视频",   "type": 3,   "searchable": 1,  "api": "./js/jsAPI/drpy2.min.js",  "ext": "./js/搜狗.js"},
 {"key": "6",  "name": "🐏大师兄影视", "type": 3,   "searchable": 1,  "api": "./js/jsAPI/drpy2.min.js",  "ext": "./js/大师兄影视.js"},
