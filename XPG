@@ -3,14 +3,14 @@
 "wallpaper": "./jar/1.png",
 "lives":[{"name":"猫TV","type":0,"url":"http://maoyingshi.cc/tvbox/zhibo/1.txt"}],
 "sites": [
-{"key": "1",  "name": "🐏小苹果",    "type": 3,   "api": "csp_LiteApple"},
-{"key": "2",  "name": "🐏360影视",   "type": 3,   "api": "csp_SP360"},
-{"key": "3",  "name": "🐏快看",      "type": 3,   "api": "csp_Kuaikan"},
-{"key": "4",  "name": "🐏光速资源",   "type": 0,   "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/"},
-{"key": "5",  "name": "🐏搜狗视频",   "type": 3,   "api": "./js/jsAPI/drpy2.min.js",  "ext": "./js/搜狗.js"},
-{"key": "6",  "name": "🐏厂长影视",   "type": 3,    "api": "csp_Czsapp"},
-{"key": "7",  "name": "🐏555电影",    "type": 3,     "api": "csp_XBPQ",                  "ext": "./js/555电影.json"},
-{"key": "8",  "name": "🐏创艺影视",    "type": 3,     "api": "./js/jsAPI/drpy2.min.js",   "ext": "./js/创艺影视.js"}
+{"name": "🐏小苹果",    "type": 3,   "api": "csp_LiteApple"},
+{"name": "🐏360影视",   "type": 3,   "api": "csp_SP360"},
+{"name": "🐏快看",      "type": 3,   "api": "csp_Kuaikan"},
+{"name": "🐏光速资源",   "type": 0,   "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/"},
+{"name": "🐏搜狗视频",   "type": 3,   "api": "./js/jsAPI/drpy2.min.js",  "ext": "./js/搜狗.js"},
+{"name": "🐏厂长影视",   "type": 3,    "api": "csp_Czsapp"},
+{"name": "🐏555电影",    "type": 3,     "api": "csp_XBPQ",                  "ext": "./js/555电影.json"},
+{"name": "🐏创艺影视",    "type": 3,     "api": "./js/jsAPI/drpy2.min.js",   "ext": "./js/创艺影视.js"}
 ],
 "parses": [
 {"name": "B站","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="},
