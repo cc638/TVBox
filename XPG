@@ -1,6 +1,6 @@
 {
 "spider": "./jar/YSC.jar",
-"wallpaper": "./jar/img",
+"wallpaper": "./jar/1.png",
 "lives":[{"name":"猫TV","type":0,"url":"http://maoyingshi.cc/tvbox/zhibo/1.txt"}],
 "sites": [
 {"key": "1",  "name": "🐏小苹果",    "type": 3,   "api": "csp_LiteApple"},
