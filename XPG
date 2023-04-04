@@ -10,9 +10,7 @@
 {"type": 3,"key": "55",  "name": "🐏搜狗视频",       "api": "./js/jsAPI/drpy2.min.js",  "ext": "./js/搜狗.js"},
 {"type": 3,"key": "66",  "name": "🐏厂长影视",       "api": "csp_Czsapp"},
 {"type": 3,"key": "77",  "name": "🐏  兔小贝",       "api": "./js/jsAPI/drpy2.min.js",     "ext": "./js/兔小贝.js"},
-{"type": 3,"key": "88",  "name": "🐏创艺影视",       "api": "./js/jsAPI/drpy2.min.js",     "ext": "./js/创艺影视.js"},
-{"type": 0,"key": "99",  "name": "🐏忆梦官采",       "api": "http://anltv.cn/api.php/provide/vod/?ac=list"},
-{"type": 0,"key": "10",  "name": "🐏超多资源",       "api": "http://app.mengdandan.com/xgapp.php/v1"}
+{"type": 3,"key": "88",  "name": "🐏创艺影视",       "api": "./js/jsAPI/drpy2.min.js",     "ext": "./js/创艺影视.js"}
 ],
 "parses": [
 {"name": "B站","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="},
