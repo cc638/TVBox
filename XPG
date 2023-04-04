@@ -3,14 +3,13 @@
 "wallpaper": "./jar/img",
 "lives":[{"name":"","type":0,"url":"http://maoyingshi.cc/tvbox/zhibo/1.txt"}],
 "sites": [
-{"key": "db","name": "🐏豆瓣","type": 3,"searchable": 1,"api": "./js/jsAPI/drpy2.min.js","ext": "./js/豆瓣.js"},
 {"key": "小苹果","name": "🐏小苹果","type": 3,"api": "csp_LiteApple","searchable": 1},
-{"key": "Kunyu77","name": "🐏备份源一","type": 3,"api": "csp_Kunyu77","searchable": 1},
-{"key": "快看","name": "🐏备份源九","type": 3,"api": "csp_Kuaikan","searchable": 1},
+{"key": "Kunyu77","name": "🐏酷云77","type": 3,"api": "csp_Kunyu77","searchable": 1},
+{"key": "快看","name": "🐏快看","type": 3,"api": "csp_Kuaikan","searchable": 1},
 {"key": "搜狗","name": "🐏搜狗视频","type": 3,"searchable": 1,"api": "./js/jsAPI/drpy2.min.js","ext": "./js/搜狗.js"},
 {"key": "aqy","name": "🐏爱奇艺视频","type": 3,"searchable": 1,"api": "./js/jsAPI/drpy2.min.js","ext": "./js/爱奇艺.js"},
 {"key": "360","name": "🐏360影视","type": 3,"searchable": 1,"api": "./js/jsAPI/drpy2.min.js","ext": "./js/360影视.js"},
-{"key": "tx","name": "🐏腾讯直采","type": 1,"api": "https://wabc.ml/mao/1.php/provide/vod/","searchable": 1,"playUrl": "parse:parwix1"},
+{"key": "tx","name": "🐏腾讯直采","type": 3,"api": "./js/jsAPI/drpy2.min.js","searchable": 1,"ext": "./js/创意影视.js"},
 {"key": "ga","name": "🐏光速资源","type": 0,"api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/","searchable": 1}
 ],
 "parses": [
