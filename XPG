@@ -1,7 +1,9 @@
+https://gitee.com/tvcc/TV/raw/cc/ipv6.txt
+http://maoyingshi.cc/tvbox/zhibo/1.txt
 {
 "spider": "./jar/YSC.jar",
 "wallpaper": "./jar/壁纸",
-"lives":[{"name":"猫TV","type":0,"url":"http://maoyingshi.cc/tvbox/zhibo/1.txt"}],
+"lives":[{"name":"猫TV","type":0,"url":"https://gitee.com/tvcc/TV/raw/cc/ipv6.txt"}],
 "sites": [
 {"type": 3,"key": "11",  "name": "🐏  小苹果",       "api": "csp_LiteApple"},
 {"type": 3,"key": "22",  "name": "🐏 360影视",       "api": "csp_SP360"},
