@@ -18,7 +18,7 @@
 {"name":"杰森","type":0,"url":"https://jx.jsonplayer.com/player/?url="}, 
 {"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 {"name":"诺讯","type":0,"url":"https://www.nxflv.com/?url="},
-{"name":"看看","type":0,"url":"https://jx.m3u8.pw/?url="}],
+{"name":"云解析","type":0,"url":"https://jx.ppflv.com/?url="}],
 "rules": [
     {"host": "*","rule": ["default.365yg.com"]},
     {"host": "dyxs20.com","rule": [".m3u8"]},
