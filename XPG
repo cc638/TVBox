@@ -4,13 +4,13 @@
 "lives":[{"name":"猫TV","type":0,"url":"https://gitee.com/tvcc/TV/raw/cc/ipv6.txt"}],
 "sites": [
 {"type": 3,"key": "11",  "name": "🐏  小苹果",       "api": "csp_LiteApple"},
-{"type": 3,"key": "22",  "name": "🐏 360影视",       "api": "csp_SP360"},
-{"type": 3,"key": "33",  "name": "🐏快看影视",        "api": "csp_Kuaikan"},
+{"type": 3,"key": "22",  "name": "🐏厂长影视",       "api": "csp_Czsapp"},
+{"type": 3,"key": "33",  "name": "🐏红牛资源",       "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/xml/"},
 {"type": 0,"key": "44",  "name": "🐏光速资源",       "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/"},
-{"type": 3,"key": "55",  "name": "🐏搜狗视频",       "api": "./js/jsAPI/drpy2.min.js",  "ext": "./js/搜狗.js"},
-{"type": 3,"key": "66",  "name": "🐏厂长影视",       "api": "csp_Czsapp"},
-{"type": 3,"key": "77",  "name": "🐏  兔小贝",       "api": "./js/jsAPI/drpy2.min.js",     "ext": "./js/兔小贝.js"},
-{"type": 3,"key": "88",  "name": "🐏创艺影视",       "api": "./js/jsAPI/drpy2.min.js",     "ext": "./js/创艺影视.js"}
+{"type": 3,"key": "55",  "name": "🐏飞速资源",       "api": "https://www.feisuzyapi.com/api.php/provide/vod/at/xml/"},
+{"type": 3,"key": "66",  "name": "🐏搜狗视频",       "api": "./js/jsAPI/drpy2.min.js",  "ext": "./js/搜狗.js"},
+{"type": 3,"key": "77",  "name": "🐏  兔小贝",       "api": "./js/jsAPI/drpy2.min.js",  "ext": "./js/兔小贝.js"},
+{"type": 3,"key": "88",  "name": "🐏创艺影视",       "api": "./js/jsAPI/drpy2.min.js",  "ext": "./js/创艺影视.js"}
 ],
 "parses": [
 {"name": "B站","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="},
