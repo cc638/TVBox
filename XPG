@@ -10,7 +10,7 @@
 {"type": 0,"key": "55","name":"🐏飞速资源",       "api": "https://www.feisuzyapi.com/api.php/provide/vod/at/xml/"},
 {"type": 0,"key": "66","name":"🐏非凡资源",       "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/"},
 {"type": 0,"key": "77","name":"🐏闪电资源",       "api": "https://sdzyapi.com/api.php/provide/vod/at/xml/"},
-{"type": 3,"key": "88","name":"🐏创艺影视",       "api": "https://www.30dian.cn/api.php/provide/vod/"},
+{"type": 3,"key": "88","name":"🐏创艺影视",       "api": "./js/jsAPI/drpy2.min.js",  "ext": "./js/创艺影视.js"},
 {"type": 3,"key": "99","name":"🐏搜狗视频",       "api": "./js/jsAPI/drpy2.min.js",  "ext": "./js/搜狗.js"},
 {"type": 3,"key": "19","name":"🐏  兔小贝",       "api": "./js/jsAPI/drpy2.min.js",  "ext": "./js/兔小贝.js"}
 ],
