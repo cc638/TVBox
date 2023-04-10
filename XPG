@@ -4,7 +4,7 @@
 "lives":[{"name":"猫TV","type":0,"url":"https://gitee.com/tvcc/TV/raw/cc/ipv6.txt"}],
 "sites": [
 {"type": 3,"key": "11","name":"🐏  小苹果",       "api": "csp_LiteApple"},
-{"type": 3,"key": "22","name":"🐏厂长影视",       "api": "csp_Czsapp"},
+{"type": 0,"key": "22","name":"🐏官方资源",       "api": "https://www.zycaiji.net:7788/api.php/provide/vod/at/xml/"},
 {"type": 0,"key": "33","name":"🐏红牛资源",       "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/xml/"},
 {"type": 0,"key": "44","name":"🐏光速资源",       "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/"},
 {"type": 0,"key": "55","name":"🐏飞速资源",       "api": "https://www.feisuzyapi.com/api.php/provide/vod/at/xml/"},
