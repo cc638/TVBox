@@ -1,3 +1,4 @@
+// 第一课   【我的朋友】
 //明帝采集http://cj.md214.cn/api.php/provide/vod/at/xml/ 明帝影视https://ys.md214.cn/api.php/provide/vod/at/xml/
 {
 "spider": "./jar/YSC.jar",
