@@ -1,4 +1,4 @@
-//明帝采集http://cj.md214.cn/api.php/provide/vod/at/xml/ 明帝影视http://ys.md214.cn/api.php/provide/vod/at/xml/
+//明帝采集http://cj.md214.cn/api.php/provide/vod/at/xml/ 明帝影视https://ys.md214.cn/api.php/provide/vod/at/xml/
 {
 "spider": "./jar/YSC.jar",
 "wallpaper": "./jar/壁纸",
@@ -11,7 +11,7 @@
 {"type": 0,"key": "55","name":"🐏飞速资源",       "api":"https://www.feisuzyapi.com/api.php/provide/vod/at/xml/"},
 {"type": 0,"key": "66","name":"🐏非凡资源",       "api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/"},
 {"type": 0,"key": "77","name":"🐏忆梦官采",       "api":"http://anltv.cn/api.php/provide/vod/at/xml/"},
-{"type": 0,"key": "12","name":"🐏明帝采集",       "api":"http://cj.md214.cn/api.php/provide/vod/at/xml/"},
+{"type": 0,"key": "12","name":"🐏明帝影视",       "api":"https://ys.md214.cn/api.php/provide/vod/at/xml/"},
 {"type": 3,"key": "88","name":"🐏创艺影视",       "api":"./js/jsAPI/drpy2.min.js",  "ext": "./js/创艺影视.js"},
 {"type": 3,"key": "99","name":"🐏菜狗官采",       "api":"./js/jsAPI/drpy2.min.js",  "ext": "./js/搜狗.js"},
 {"type": 3,"key": "19","name":"🐏  兔小贝",       "api":"./js/jsAPI/drpy2.min.js",  "ext": "./js/兔小贝.js"}],
