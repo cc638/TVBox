@@ -7,15 +7,11 @@
 "sites": [
 {"type": 3,"key": "87","name":"🐏  小苹果",       "api":"csp_LiteApple"},
 {"type": 3,"key": "88","name":"🐏创艺影视",       "api":"./js/jsAPI/drpy2.min.js",  "ext": "./js/创艺影视.js"},
-{"type": 3,"key": "89","name":"🐏菜狗官采",       "api":"./js/jsAPI/drpy2.min.js",  "ext": "./js/搜狗.js"},
 {"type": 3,"key": "90","name":"🐏  兔小贝",       "api":"./js/jsAPI/drpy2.min.js",  "ext": "./js/兔小贝.js"},
 {"type": 3,"key": "91","name":"🐏  88看球",       "api":"./js/jsAPI/drpy2.min.js",  "ext": "./js/88看球.js"},
 {"type": 3,"key": "92","name":"🐏兄弟影视",       "api":"./js/jsAPI/drpy2.min.js",  "ext": "./js/兄弟影视.js"},
-{"type": 0,"key": "02","name":"🐏量子资源",       "api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/"},
 {"type": 0,"key": "03","name":"🐏红牛资源",       "api":"https://www.hongniuzy2.com/api.php/provide/vod/at/xml/"},
 {"type": 0,"key": "04","name":"🐏光速资源",       "api":"https://api.guangsuapi.com/api.php/provide/vod/at/xml/"},
-{"type": 0,"key": "05","name":"🐏飞速资源",       "api":"https://www.feisuzyapi.com/api.php/provide/vod/at/xml/"},
-{"type": 0,"key": "06","name":"🐏非凡资源",       "api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/"},
 {"type": 0,"key": "07","name":"🐏忆梦官采",       "api":"http://anltv.cn/api.php/provide/vod/at/xml/"},
 {"type": 0,"key": "08","name":"🐏明帝影视",       "api":"https://ys.md214.cn/api.php/provide/vod/at/xml/"}
 ],
