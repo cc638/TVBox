@@ -67,20 +67,6 @@ IPV6课文教育,#genre#
 空中课堂_高三,http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
 
 IPV6 影视,#genre#
-刘德华,http://epg.112114.xyz/douyu/2516864
-周星驰,http://epg.112114.xyz/douyu/3990812
-成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=34460526
-MV音乐,http://113.117.74.8:808/hls/88/index.m3u8
-动画电影,http://epg.112114.xyz/douyu/10395973
-迪斯尼动画,http://118.26.120.34:55336/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
 动画HD,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225716/2/index.m3u8
-黑莓动画,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225672/index.m3u8
 动漫轮播-动漫,http://tc-tct.douyucdn2.cn/dyliveflv1a/206858rtesHKjl.flv?wsAuth=874ec8068853bd13e2fa21a68f258440&token=cpn-androidmpro-0-206858-355488b41ed19088616f37e791a58fcf3679923943a09438&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-动画轮播-动画轮播,http://epg.112114.xyz/douyu/426517
 动漫轮播-动画电影,http://118.26.120.36:55336/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8?key=0b292c335e5837e94f25985f7c35b1efe
-虎牙2轮播,http://txtest-xp2p.p2p.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs
-虎牙3轮播,http://txtest-xp2p.p2p.huya.com/src/1423782050-1423782050-6115097341381836800-2847687556-10057-A-0-1.xs
-虎牙4轮播,http://txtest-xp2p.p2p.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.xs
-虎牙5轮播,http://txtest-xp2p.p2p.huya.com/src/1448737849-1448737849-6222281681932386304-2847687520-10057-A-0-1.xs
-虎牙6轮播,http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
-虎牙7轮播,http://txtest-xp2p.p2p.huya.com/src/1449567112-1449567112-6225843339397169152-2847687536-10057-A-0-1.xs
