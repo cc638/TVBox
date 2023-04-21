@@ -12,7 +12,7 @@
 {"type": 3,"key": "06","name":"🐏  兔小贝",  "api":"./js/jsAPI/drpy2.min.js",  "ext":"./js/兔小贝.js"}
 ],
 "parses": [
-{"name":"B站","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+{"name":"B站 ","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"全民","type":0,"url":"https://api.quanminjiexi.com/?v="},
 {"name":"杰森","type":0,"url":"https://jx.jsonplayer.com/player/?url="}, 
 {"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url="},
