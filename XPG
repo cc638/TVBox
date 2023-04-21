@@ -5,7 +5,7 @@
 "wallpaper": "./jar/壁纸",
 "lives":[{"name":"TVbox","type":0,"url":"https://gitee.com/tvcc/TV/raw/cc/ipv6.txt"}],
 "sites": [
-{"type": 3,"key": "87","name":"🐏  小苹果",       "api":"csp_LiteApple",  "ext":"./jar/XPG.jar"},
+{"type": 3,"key": "87","name":"🐏  小苹果",       "api":"csp_LiteApple",  "jar":"./jar/XPG.jar"},
 {"type": 3,"key": "88","name":"🐏创艺影视",       "api":"./js/jsAPI/drpy2.min.js",  "ext":"./js/创艺影视.js"},
 {"type": 3,"key": "90","name":"🐏  兔小贝",       "api":"./js/jsAPI/drpy2.min.js",  "ext":"./js/兔小贝.js"},
 {"type": 0,"key": "02","name":"🐏快播资源",       "api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml/"},
