@@ -3,7 +3,7 @@
 {
 "spider": "./jar/YSC.jar",
 "wallpaper": "./jar/壁纸",
-"lives":[{"name":"TVbox","type":0,"url":"https://gitee.com/tvcc/TV/raw/cc/ipv6.txt"}],
+"lives":[{"name":"TVbox","type":0,"url":"./ipv6.txt"}],
 "sites": [
 {"type": 3,"key": "87","name":"🐏  小苹果",       "api":"csp_LiteApple",  "jar":"./jar/XPG.jar"},
 {"type": 3,"key": "88","name":"🐏创艺影视",       "api":"./js/jsAPI/drpy2.min.js",  "ext":"./js/创艺影视.js"},
