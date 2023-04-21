@@ -1,11 +1,11 @@
 // 第一课   【我的朋友】
 //明帝采集http://cj.md214.cn/api.php/provide/vod/at/xml/ 明帝影视https://ys.md214.cn/api.php/provide/vod/at/xml/
 {
-"spider": "./jar/777.jar",
+"spider": "./jar/XPG.jar",
 "wallpaper": "./jar/壁纸",
 "lives":[{"name":"TVbox","type":0,"url":"./ipv6.txt"}],
 "sites": [
-{"type": 3,"key": "87","name":"🐏  小苹果",       "api":"csp_LiteApple",  "jar":"./jar/XPG.jar"},
+{"type": 3,"key": "87","name":"🐏  小苹果",       "api":"csp_LiteApple"},
 {"type": 3,"key": "88","name":"🐏创艺影视",       "api":"./js/jsAPI/drpy2.min.js",  "ext":"./js/创艺影视.js"},
 {"type": 3,"key": "90","name":"🐏  兔小贝",       "api":"./js/jsAPI/drpy2.min.js",  "ext":"./js/兔小贝.js"},
 {"type": 0,"key": "02","name":"🐏快播资源",       "api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml/"},
