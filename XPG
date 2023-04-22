@@ -10,7 +10,8 @@
 {"type": 0,"key": "03","name":"光速资源",  "api":"https://api.guangsuapi.com/api.php/provide/vod/at/xml/"},
 {"type": 0,"key": "04","name":"量子资源",  "api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/"},
 {"type": 0,"key": "05","name":"快播资源",  "api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml/"},
-{"type": 3,"key": "06","name":"兔小贝  ",  "api":"./js/jsAPI/drpy2.min.js",  "ext":"./js/兔小贝.js"}
+{"type": 0,"key": "05","name":"艾旦影视",  "api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml/"},
+{"type": 3,"key": "00","name":"兔小贝  ",  "api":"./js/jsAPI/drpy2.min.js",  "ext":"./js/兔小贝.js"}
 ],
 "parses": [
 {"name":"B站 ","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
