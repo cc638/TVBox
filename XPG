@@ -1,11 +1,11 @@
-//明帝采集cj 明帝影视ys
+//明帝采集cj 明帝影视ys http://anltv.cn/api.php/provide/vod/at/xml/
 {
 "spider": "./jar/YSC.jar",
 "wallpaper": "./jar/壁纸",
 "lives":[{"name":"TVbox","type":0,"url":"./ipv6.txt"}],
 "sites": [
 {"type": 0,"key": "01","name":"明帝影视",  "api":"https://ys.md214.cn/api.php/provide/vod/at/xml/"},
-{"type": 0,"key": "02","name":"忆梦官采",  "api":"http://anltv.cn/api.php/provide/vod/at/xml/"},
+{"type": 0,"key": "02","name":"忆梦官采",  "api":"https://www.zycaiji.net:7788/api.php/provide/vod/at/xml/"},
 {"type": 0,"key": "03","name":"光速资源",  "api":"https://api.guangsuapi.com/api.php/provide/vod/at/xml/"},
 {"type": 0,"key": "04","name":"量子资源",  "api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/"},
 {"type": 0,"key": "05","name":"快播资源",  "api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml/"},
