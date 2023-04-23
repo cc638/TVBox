@@ -12,8 +12,8 @@
 {"type":0,"key":"04","name":"量子资源", "api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"05","name":"快播资源", "api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"06","name":"艾旦影视", "api":"https://www.lovedan.net/api.php/provide/vod/at/xml/"},
-{"type":1,"key":"csp_xml_07","name":"影视之家", "api":"http://yszj.cm/xgapp.php/v2/"},
-{"type":1,"key":"csp_xml_08","name":"创艺影视", "api":"https://www.30dian.cn/api.php/v1.vod"}
+{"type":0,"key":"csp_xml_07","name":"影视之家", "api":"http://yszj.cm/xgapp.php/v2/"},
+{"type":0,"key":"csp_xml_08","name":"创艺影视", "api":"https://www.30dian.cn/api.php/v1.vod"}
 ],
 "parses": [
 {"name":"B站 ","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
