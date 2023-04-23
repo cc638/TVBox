@@ -12,8 +12,8 @@
 {"type":0,"key":"04","name":"量子资源", "api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"05","name":"快播资源", "api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"06","name":"艾旦影视", "api":"https://www.lovedan.net/api.php/provide/vod/at/xml/"},
-{"type":1,"key":"07","name":"影视之家", "api":"http://yszj.cm/xgapp.php/v2/"},
-{"type":1,"key":"08","name":"创艺影视", "api":"https://www.30dian.cn/api.php/v1.vod","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","伦理片"]}
+{"type":1,"key":"07","name":"影视之家", "api":"http://yszj.cm/xgapp.php/v2/","searchable":1,"quickSearch":1},
+{"type":1,"key":"08","name":"创艺影视", "api":"https://www.30dian.cn/api.php/v1.vod","searchable":1,"quickSearch":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","伦理片"]}
 ],
 "parses": [
 {"name":"B站 ","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
