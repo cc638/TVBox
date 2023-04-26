@@ -7,7 +7,7 @@
 "wallpaper":"./jar/壁纸",
 "lives":[{"name":"TVbox","type":0,"url":"./ipv6.txt"}],
 "sites": [
-{"type":0,"key":"01","name":"明帝影视", "api":"https://ys.md214.cn/api.php/provide/vod/"},
+{"type":0,"key":"01","name":"明帝影视", "api":"https://ys.md214.cn/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"02","name":"非凡资源", "api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"03","name":"光速资源", "api":"https://api.guangsuapi.com/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"04","name":"量子资源", "api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/"},
