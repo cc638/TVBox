@@ -1,6 +1,6 @@
 //明帝采集cj忆梦http://anltv.cn/api.php/provide/vod/at/xml/鲸落http://406np.xyz/api.php/provide/vod/at/xml/快车https://caiji.kczyapi.com/api.php/provide/vod/at/xml/
 //艾旦影视https://www.lovedan.net/api.php/provide/vod/at/xml/https://ddmf.net/api.php/provide/vod/at/xml/小猫咪https://zy.xiaomaomi.tv/api.php/app/ 
-//{"type":3,"key":"00","name":"兔小贝","api":"./js/jsAPI/drpy2.min.js","ext":"./js/兔小贝.js"}
+//{"type":3,"key":"00","name":"兔小贝","api":"./js/jsAPI/drpy2.min.js","ext":"./js/兔小贝.js"} "playUrl": "https://vip5.jiexi.one?url="
 //影视之家http://yszj.cm/xgapp.php/v2/
 {
 "spider":"./jar/2212.jar",
