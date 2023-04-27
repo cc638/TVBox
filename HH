@@ -1,6 +1,5 @@
 {
 "spider":"https://gitee.com/tvcc/TV/raw/cc/jar/YSC.jar",
-"wallpaper":"https://gitee.com/tvcc/TV/raw/cc/jar/%E5%A3%81%E7%BA%B8",
 "sites": [
 {"key":"1","name":"哥哥妹妹","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml"},
 {"key":"2","name":"CK资源","type":0,"api":"https://ckzy.me/api.php/provide/vod/at/xml"},
@@ -50,10 +49,6 @@
 {"key":"52av","name":"46🔞","type":0,"api":"https://52zyapi.com/home/cjapi/asda/mc10/vod/xml"},
 {"key":"dMM","name":"47🔞","type":0,"api":"https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml"}
 ],
-"parses":[
-{"name":"解析1","type":0,"url":"https://player.77lehuo.com/aliplayer/?url="}],
-
-"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 
 "ijk":[
 {"group":"软解码","options":[
