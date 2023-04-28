@@ -2,8 +2,8 @@
 "spider":"https://gitee.com/tvcc/TV/raw/cc/jar/YSC.jar",
 //"wallpaper":"",
 "sites": [
-{"type":0,"key":"0","name":"佳丽","api":"https://cj.apiabzy.com/api.php/provide/vod/at/xml/"},
-{"type":0,"key":"1","name":"523 ","api":"https://523zyw.me/inc/seacmsapi.php"},
+{"type":0,"key":"0","name":"523 ","api":"https://523zyw.me/inc/seacmsapi.php"},
+{"type":0,"key":"1","name":"佳丽","api":"https://cj.apiabzy.com/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"2","name":"鲍鱼","api":"http://caiji26.com/home/cjapi/p0g8/mc/vod/xml"},
 {"type":0,"key":"3","name":"花魁","api":"https://caiji.huakuiapi.com/inc/api.php"},
 {"type":0,"key":"4","name":"葡萄","api":"https://caiji.putaozy.net/inc/api.php"},
