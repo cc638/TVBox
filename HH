@@ -1,6 +1,6 @@
 {
 "spider":"https://gitee.com/tvcc/TV/raw/cc/jar/YSC.jar",
-"wallpaper":"",
+"wallpaper":"https://gitee.com/tvcc/TV/raw/cc/jar/壁纸",
 "sites": [
 {"type":0,"key":"0","name":"523 ","api":"https://523zyw.me/inc/seacmsapi.php"},
 {"type":0,"key":"1","name":"佳丽","api":"https://cj.apiabzy.com/api.php/provide/vod/at/xml/"},
