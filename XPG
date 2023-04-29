@@ -3,7 +3,7 @@
 // 艾旦影视https://www.lovedan.net/api.php/provide/vod/at/xml/  https://ddmf.net/api.php/provide/vod/at/xml/
 // 小猫咪https://zy.xiaomaomi.tv/api.php/app/ 
 // {"type":3,"key":"00","name":"兔小贝","api":"./js/jsAPI/drpy2.min.js","ext":"./js/兔小贝.js"} "playUrl":""
-// 影视之家http://yszj.cm/xgapp.php/v2/    https://www.zycaiji.net:7788/api.php/provide/vod/
+// 影视之家http://yszj.cm/xgapp.php/v2/    官采 https://www.zycaiji.net:7788/api.php/provide/vod/
 {
 "spider":"./jar/2212.jar",
 "wallpaper":"./jar/壁纸",
