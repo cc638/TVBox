@@ -3,9 +3,6 @@
 //  "官采资源", "api":"https://www.zycaiji.net:7788/api.php/provide/vod/"}
 //  "快车资源", "api":"https://caiji.kczyapi.com/api.php/provide/vod/at/xml/"}
 {
-"spider":"./jar/2212.jar",
-"wallpaper":"./jar/壁纸",
-"lives":[{"name":"TVbox","type":0,"url":"./ipv6.txt"}],
 "sites": [
 {"type":0,"key":"01","name":"明帝影视", "api":"https://ys.md214.cn/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"02","name":"非凡资源", "api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/"},
@@ -26,6 +23,10 @@
 {"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 {"name":"米布","type":0,"url":"https://43.240.74.102:4433/?url="},
 {"name":"云解","type":0,"url":"https://videocdn.ihelpy.net/jiexi/m1907.html?m1907jx="}],
+
+"spider":"./jar/2212.jar",
+"wallpaper":"./jar/壁纸",
+"lives":[{"name":"TVbox","type":0,"url":"./ipv6.txt"}],
 
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","BYGA","BYGB","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
 
