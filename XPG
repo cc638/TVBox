@@ -15,7 +15,7 @@
 {"type":3,"key":"06","name":"小猫咪  ", "api":"csp_AppYs", "ext":"https://zy.xiaomaomi.tv/api.php/app/"},
 {"type":3,"key":"07","name":"影视之家", "api":"csp_AppYs", "ext":"http://yszj.cm/xgapp.php/v2/"},
 {"type":3,"key":"08","name":"创艺影视", "api":"csp_AppYs", "ext":"https://www.30dian.cn/api.php/v1.vod"},
-{"type":0,"key":"09","name":"鲸落影视", "api":"http://406np.xyz/api.php/provide/vod/at/xml/"}
+{"type":0,"key":"09","name":"鲸落影视", "api":"http://406np.xyz/api.php/provide/vod/at/xml/","playUrl":"http://java.406np.xyz/?url="}
 ],
 "parses": [
 {"name":"B站 ","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
