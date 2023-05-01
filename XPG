@@ -14,10 +14,11 @@
 {"type":0,"key":"09","name":"鲸落影视", "api":"http://406np.xyz/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"10","name":"忆梦影视", "api":"http://anltv.cn/api.php/provide/vod/at/xml/"}
 ],
+//肥猫 http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v=
 "parses": [
 {"name":"B站 ","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"全民","type":0,"url":"https://api.quanminjiexi.com/?v="},
-{"name":"肥猫","type":0,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v="},
+{"name":"查询","type":0,"url":"https://chaxun.truechat365.com/?url="},
 {"name":"杰森","type":0,"url":"https://jx.jsonplayer.com/player/?url="}, 
 {"name":"爱豆","type":0,"url":"https://jx.aidouer.net/?url="},
 {"name":"鲸落","type":0,"url":"http://java.406np.xyz/?url="},
