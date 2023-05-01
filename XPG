@@ -15,13 +15,13 @@
 {"type":0,"key":"10","name":"忆梦影视", "api":"http://anltv.cn/api.php/provide/vod/at/xml/"}
 ],
 "parses": [
-{"name":"B站 ","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
-{"name":"全民","type":0,"url":"https://api.quanminjiexi.com/?v="},
-{"name":"查询","type":0,"url":"https://chaxun.truechat365.com/?url="},
-{"name":"特勒","type":0,"url":"https://43.240.74.102:4433/?url="}, 
-{"name":"爱豆","type":0,"url":"https://jx.aidouer.net/?url="},
-{"name":"鲸落","type":0,"url":"http://java.406np.xyz/?url="},
-{"name":"云解","type":0,"url":"https://jx.aidouer.net/?url="}],
+{"name":"B站    ","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+{"name":"全民   ","type":0,"url":"https://api.quanminjiexi.com/?v="},
+{"name":"查询   ","type":0,"url":"https://chaxun.truechat365.com/?url="},
+{"name":"特勒   ","type":0,"url":"https://43.240.74.102:4433/?url="}, 
+{"name":"爱豆   ","type":0,"url":"https://jx.aidouer.net/?url="},
+{"name":"鲸落   ","type":0,"url":"http://java.406np.xyz/?url="},
+{"name":"爱奇艺 ","type":0,"url":"https://jx.xmflv.com/?url="}],
 
 "spider":"./jar/2212.jar",
 "wallpaper":"./jar/壁纸",
