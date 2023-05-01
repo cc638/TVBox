@@ -11,7 +11,7 @@
 {"type":3,"key":"06","name":"小猫咪  ", "api":"csp_AppYs", "ext":"https://zy.xiaomaomi.tv/api.php/app/"},
 {"type":3,"key":"07","name":"影视之家", "api":"csp_AppYs", "ext":"http://yszj.cm/xgapp.php/v2/"},
 {"type":3,"key":"08","name":"创艺影视", "api":"csp_AppYs", "ext":"https://www.30dian.cn/api.php/v1.vod"},
-{"type":0,"key":"09","name":"鲸落影视", "api":"http://406np.xyz/api.php/provide/vod/at/xml/","playUrl":"http://java.406np.xyz/?url="},
+{"type":0,"key":"09","name":"鲸落影视", "api":"http://406np.xyz/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"10","name":"忆梦影视", "api":"http://anltv.cn/api.php/provide/vod/at/xml/"}
 ],
 "parses": [
@@ -20,7 +20,7 @@
 {"name":"肥猫","type":0,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v="},
 {"name":"杰森","type":0,"url":"https://jx.jsonplayer.com/player/?url="}, 
 {"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url="},
-{"name":"米布","type":0,"url":"https://43.240.74.102:4433/?url="},
+{"name":"鲸落","type":0,"url":"http://java.406np.xyz/?url="},
 {"name":"云解","type":0,"url":"https://videocdn.ihelpy.net/jiexi/m1907.html?m1907jx="}],
 
 "spider":"./jar/2212.jar",
