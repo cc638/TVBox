@@ -14,7 +14,7 @@
 {"type":0,"key":"09","name":"鲸落影视", "api":"http://406np.xyz/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"10","name":"忆梦影视", "api":"http://anltv.cn/api.php/provide/vod/at/xml/"},
 {"type":3,"key":"11","name":"大师兄影","api":"./js/lib/drpy2.min.js","ext":"./js/大师兄影视.js"},
-{"type":3,"key":"12","name":"360影视 ","api":"./js/lib/drpy2.min.js","ext":"./js/360影视.js"}
+{"type":3,"key":"12","name":"365影视 ","api":"./js/lib/drpy2.min.js","ext":"./js/360影视.js"}
 ],
 "parses": [
 {"name":"B站    ","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
@@ -27,7 +27,7 @@
 
 "spider":"./jar/2212.jar",
 "wallpaper":"./jar/壁纸",
-"lives":[{"name":"TVbox","type":0,"url":"./ipv6.txt"}],
+"lives":[{"name":"TVbox","type":0,"url":"/ipv6.txt"}],
 
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","huanxi","ltnb","rx","SLYS4k","BYGA","BYGB","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
 
