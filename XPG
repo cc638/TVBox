@@ -8,8 +8,8 @@
 {"type":0,"key":"03","name":"光速资源", "api":"https://api.guangsuapi.com/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"04","name":"量子资源", "api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"05","name":"金鹰资源", "api":"https://jyzyapi.com/provide/vod/at/xml/"},
-{"type":0,"key":"06","name":"艾旦影视", "api":"https://www.lovedan.net/api.php/provide/vod/at/xml/"},
-{"type":0,"key":"07","name":"忆梦影视", "api":"http://anltv.cn/api.php/provide/vod/at/xml/"},
+{"type":0,"key":"06","name":"闪电资源", "api":"https://sdzyapi.com/api.php/provide/vod/at/xmlsea/"},
+{"type":0,"key":"07","name":"艾旦影视", "api":"https://www.lovedan.net/api.php/provide/vod/at/xml/"},
 {"type":3,"key":"08","name":"小猫咪  ", "api":"csp_AppYs", "ext":"https://zy.xiaomaomi.tv/api.php/app/"},
 {"type":3,"key":"09","name":"创艺影视", "api":"csp_AppYs", "ext":"https://www.30dian.cn/api.php/v1.vod"}
 ],
