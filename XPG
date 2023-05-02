@@ -19,6 +19,7 @@
 "parses": [
 {"name":"B站    ","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"全民   ","type":0,"url":"https://api.quanminjiexi.com/?v="},
+{"name":"蓝光   ","type":0,"url":"http://vip.xxphp.cn/player.html?url="},
 {"name":"查询   ","type":0,"url":"https://chaxun.truechat365.com/?url="},
 {"name":"特勒   ","type":0,"url":"https://43.240.74.102:4433/?url="}, 
 {"name":"爱豆   ","type":0,"url":"https://jx.aidouer.net/?url="},
