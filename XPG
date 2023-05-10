@@ -16,7 +16,7 @@
 {"name":"普清   ","type":0,"url":"http://api.wpsseo.cn/?v="},
 {"name":"爱奇艺 ","type":0,"url":"https://jx.xmflv.com/?url="},
 {"name":"芒果解析","type":0,"url":"https://jy.we-vip.com:2053/?url="},
-{"name":"腾讯解析","type":0,"url":"https://jx.jsonplayer.com/player/?url="} //https://jx.777jiexi.com/player/?url=
+{"name":"腾讯解析","type":0,"url":"https://jx.jsonplayer.com/player/?url="}
 ],
 
 "spider":"./jar/2212.jar",
