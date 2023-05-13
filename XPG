@@ -21,7 +21,7 @@
 
 "spider":"./jar/2212.jar",
 "wallpaper":"./jar/壁纸",
-"lives":[{"name":"TVbox","type":0,"url":"./TV1"}],
+"lives":[{"name":"TVbox","type":0,"url":"./MGZB"}],
 
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","mgtv","huanxi","bilibili","xigua","m1905","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
 
