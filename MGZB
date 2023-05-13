@@ -1,3 +1,9 @@
+80频道,#genre#
+CCTV-1综合,http://stream4.jlntv.cn:80/cctv1hd/playlist.m3u8
+CCTV-13新闻,http://stream4.jlntv.cn:80/cctv13/playlist.m3u8
+吉林卫视,http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8
+吉林衛視,http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8
+
 央视频道,#genre#
 BesTV体育,http://iptv.kjrzxhb.top:2086/udp/239.11.0.234:5140
 CCTV1,http://iptv.kjrzxhb.top:2086/udp/239.11.0.65:5140
