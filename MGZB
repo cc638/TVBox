@@ -1,10 +1,10 @@
 80频道,#genre#
-CCTV1 Max16M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001274/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-1综合,http://stream4.jlntv.cn:80/cctv1hd/playlist.m3u8
-CCTV2 Max16M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV1,http://stream4.jlntv.cn:80/cctv1hd/playlist.m3u8
+CCTV2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV3,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -12,7 +12,7 @@ CCTV4 Max16M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 CCTV4,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV4,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV5,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV5+ Max16M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV5+,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV5+,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV5+,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV5+,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?世界杯WorldCup
@@ -22,10 +22,10 @@ CCTV7,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001291/in
 CCTV8,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV9,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV10,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV11HD-8M备,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV11,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV12,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV13HD-8M备,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-13新闻,http://stream4.jlntv.cn:80/cctv13/playlist.m3u8
+CCTV13,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV13,http://stream4.jlntv.cn:80/cctv13/playlist.m3u8
 CCTV14,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV16,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.co
 CCTV16,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -88,7 +88,6 @@ LYTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001440/ind
 湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001027/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 欢笑剧场4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 吉林卫视,http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8
-吉林衛視,http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8
 极速汽车,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002263/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 江苏卫视(4K),http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 江苏卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001032/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -115,7 +114,7 @@ LYTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001440/ind
 重庆卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
-央视频道,#genre#
+咪咕频道,#genre#
 BesTV体育,http://iptv.kjrzxhb.top:2086/udp/239.11.0.234:5140
 CCTV1,http://iptv.kjrzxhb.top:2086/udp/239.11.0.65:5140
 CCTV2,http://iptv.kjrzxhb.top:2086/udp/239.11.0.108:5140
@@ -135,8 +134,6 @@ CCTV14,http://iptv.kjrzxhb.top:2086/udp/239.11.0.114:5140
 CCTV15,http://iptv.kjrzxhb.top:2086/udp/239.11.0.26:5140
 CCTV16,http://iptv.kjrzxhb.top:2086/udp/239.11.0.67:5140
 CCTV17,http://iptv.kjrzxhb.top:2086/udp/239.11.0.107:5140
-
-卫视频道,#genre#
 安多卫视,http://iptv.kjrzxhb.top:2086/udp/239.11.0.124:5140
 安徽卫视,http://iptv.kjrzxhb.top:2086/udp/239.11.0.117:5140
 北京卫视,http://iptv.kjrzxhb.top:2086/udp/239.11.0.121:5140
@@ -180,8 +177,6 @@ CCTV17,http://iptv.kjrzxhb.top:2086/udp/239.11.0.107:5140
 云南卫视,http://iptv.kjrzxhb.top:2086/udp/239.11.0.52:5140
 浙江卫视,http://iptv.kjrzxhb.top:2086/udp/239.11.0.70:5140
 重庆卫视,http://iptv.kjrzxhb.top:2086/udp/239.11.0.116:5140
-
-成都卫视,#genre#
 CDTV1,http://iptv.kjrzxhb.top:2086/udp/239.10.0.11:5140
 CDTV1,http://iptv.kjrzxhb.top:2086/udp/239.10.0.173:5140
 CDTV2,http://iptv.kjrzxhb.top:2086/udp/239.10.0.12:5140
@@ -192,14 +187,10 @@ CDTV5,http://iptv.kjrzxhb.top:2086/udp/239.10.0.15:5140
 CDTV5,http://iptv.kjrzxhb.top:2086/udp/239.10.0.43:5140
 CDTV6,http://iptv.kjrzxhb.top:2086/udp/239.10.0.44:5140
 CDTV6,http://iptv.kjrzxhb.top:2086/udp/239.10.0.16:5140
-
-中国教育,#genre#
 CETV1,http://iptv.kjrzxhb.top:2086/udp/239.11.0.139:5140
 CETV2,http://iptv.kjrzxhb.top:2086/udp/239.11.0.246:5140
 CETV3,http://iptv.kjrzxhb.top:2086/udp/239.11.0.247:5140
 CETV4,http://iptv.kjrzxhb.top:2086/udp/239.11.0.248:5140
-
-影视剧场,#genre#
 NewTV爱情戏剧,http://iptv.kjrzxhb.top:2086/udp/239.11.0.149:5140
 NewTV动作电影,http://iptv.kjrzxhb.top:2086/udp/239.11.0.142:5140
 NewTV古装剧场,http://iptv.kjrzxhb.top:2086/udp/239.11.0.141:5140
@@ -237,8 +228,6 @@ UTV优视影院,http://iptv.kjrzxhb.top:2086/udp/239.11.0.172:5140
 爱上4K,http://iptv.kjrzxhb.top:2086/udp/239.11.0.120:5140
 CGTN,http://iptv.kjrzxhb.top:2086/udp/239.11.0.245:5140
 CGTN记录,http://iptv.kjrzxhb.top:2086/udp/239.11.0.138:5140
-
-少儿频道,#genre#
 UTV炫酷动漫,http://iptv.kjrzxhb.top:2086/udp/239.11.0.186:5140
 UTV卡通动画,http://iptv.kjrzxhb.top:2086/udp/239.11.0.181:5140
 UTV金色童年,http://iptv.kjrzxhb.top:2086/udp/239.11.0.182:5140
@@ -450,7 +439,7 @@ CETV4,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221227200
 重庆卫视,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226676/index.m3u8?servicetype=1
 重庆卫视,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221227220/index.m3u8?servicetype=1
 
-IPTV6 4077频道,#genre#
+
 CCTV1,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225816/index.m3u8
 CCTV1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225736/index.m3u8
@@ -554,6 +543,17 @@ NewTV金牌综艺,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225525/
 重庆卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225963/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 足球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 少儿动画频道,#genre#
 【动画电影】童年回忆,http://epg.112114.xyz/douyu/10395973
