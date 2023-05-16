@@ -10,7 +10,7 @@
 {"type":3,"key":"05","name":"小猫咪  ", "api":"csp_AppYs", "ext":"https://zy.xiaomaomi.tv/api.php/app/"},
 {"type":3,"key":"06","name":"创艺影视", "api":"csp_AppYs", "ext":"https://www.30dian.cn/api.php/v1.vod"},
 {"type":3,"key":"07","name":"酷影蓝光", "api":"csp_AppYs", "ext":"http://kuying.kuyouk.top:9528/api.php/app/"},
-{"type":3,"key":"08","name":"一龙高清","api":"./js/lib/drpy2.min.js","ext":"./js/一龙高清.json"}
+{"type":3,"key":"08","name":"一龙高清","api":"./js/lib/dianbo.js","ext":"./js/一龙高清.json"}
 ],
 "parses": [
 {"name":"B站    ","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
