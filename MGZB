@@ -12,7 +12,6 @@ CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001068/in
 CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001274/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV1,http://stream4.jlntv.cn:80/cctv1hd/playlist.m3u8
 CCTV2,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226306/index.m3u8?servicetype=1
 CCTV2,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226466/index.m3u8?servicetype=1
 CCTV2,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226569/index.m3u8?servicetype=1
@@ -50,7 +49,6 @@ CCTV5+,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/i
 CCTV5+,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV5+,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?世界杯WorldCup
 CCTV6,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
-CCTV6,http://live.cooltv.top/tv/aishang.php?id=cctv6hd
 CCTV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225814/index.m3u8
 CCTV6,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226485/index.m3u8?servicetype=1
@@ -104,7 +102,6 @@ CCTV13,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/322122648
 CCTV13,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226543/index.m3u8?servicetype=1
 CCTV13,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221227186/index.m3u8?servicetype=1
 CCTV13,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV13,http://stream4.jlntv.cn:80/cctv13/playlist.m3u8
 CCTV14,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV14,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225674/index.m3u8
 CCTV14,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226475/index.m3u8?servicetype=1
@@ -245,7 +242,6 @@ CCTV央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/i
 吉林卫视,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226425/index.m3u8?servicetype=1
 吉林卫视,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226684/index.m3u8?servicetype=1
 吉林卫视,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221227240/index.m3u8?servicetype=1
-吉林卫视,http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8
 江苏卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 江苏卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225929/index.m3u8
 江苏卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225938/index.m3u8
@@ -327,10 +323,7 @@ CETV4,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221227200
 金鹰卡通,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226413/index.m3u8?servicetype=1
 金鹰卡通,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226624/index.m3u8?servicetype=1
 金鹰卡通,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221227210/index.m3u8?servicetype=1
-卡酷动画,http://117.169.124.149:8080/live/kakukaton/index.m3u8
 其他频道,#genre#
-CHC电影,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8?
-CHC电影,http://tvmvip110.club/as.php?id=chcgqdy
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
@@ -431,10 +424,10 @@ YY电影-电影轮播01,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
 老电影,http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
 乐游,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226335/index.m3u8?servicetype=1
 乐游,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226536/index.m3u8?servicetype=1
-乐游频道,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+乐游,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 魅力足球,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226337/index.m3u8?servicetype=1
 魅力足球,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226558/index.m3u8?servicetype=1
-魅力足球足球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
+魅力足球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 咪咕音乐,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225904/index.m3u8
 求索动物,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226118/index.m3u8?servicetype=1
 求索纪录,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226114/index.m3u8?servicetype=1
