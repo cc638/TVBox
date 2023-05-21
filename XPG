@@ -11,8 +11,8 @@
 {"type":3,"key":"05","name":"小猫咪  ", "api":"csp_AppYs", "ext":"https://zy.xiaomaomi.tv/api.php/app/"},
 {"type":3,"key":"06","name":"创艺影视", "api":"csp_AppYs", "ext":"https://www.30dian.cn/api.php/v1.vod"},
 {"type":3,"key":"07","name":"酷影蓝光", "api":"csp_AppYs", "ext":"http://kuying.kuyouk.top:9528/api.php/app/"},
-{"type":3,"key":"08","name":"龙门影视", "api":"csp_AppYs", "ext":"https://movie.iqinu.com/api.php/v1.vod"}
-{"type":3,"key":"09","name":"360影视","api":"./js/lib/drpy2.min.js","ext":"./js/360yingshi.js"}
+{"type":3,"key":"08","name":"龙门影视", "api":"csp_AppYs", "ext":"https://movie.iqinu.com/api.php/v1.vod"},
+{"type":3,"key":"09","name":"360影视","api":"./js/lib/drpy2.min.js","ext":"./js/360yingshi.js"},
 {"type":3,"key":"10","name":"一龙高清","api":"./js/lib/drpy2.min.js","ext":"./js/一龙高清.json"}
 ],
 "parses": [
