@@ -1,10 +1,10 @@
-//  {"type":3,"key":"00","name":"兔小贝","api":"./js/lib/drpy2.min.js","ext":"./js/兔小贝.js"} ,"playUrl":"https://jx.jsonplayer.com/player/?url="
+//  {"type":3,"key":"00","name":"兔小贝","api":"./js/lib/drpy2.min.js","ext":"./js/兔小贝.js"} ,"playUrl":"https://bf.md214.cn/?url="
 //  "蛋蛋影视", "api":"https://ddmf.net/api.php/provide/vod/at/xml/"}
 //  "官采资源", "api":"https://www.zycaiji.net:7788/api.php/provide/vod/at/xml/"}  http://api.kunyu77.com/api.php
 //  "快车资源", "api":"https://caiji.kczyapi.com/api.php/provide/vod/at/xml/"}   https://zy.xiaomaomi.tv/api.php/app/
 //  "爱酷资源", "api":"https://ikunzyapi.com/api.php/provide/vod/at/xml/"}
 {"sites": [
-{"type":0,"key":"01","name":"明帝影视", "api":"https://ys.md214.cn/api.php/provide/vod/at/xml/"},
+{"type":0,"key":"01","name":"明帝影视", "api":"https://ys.md214.cn/api.php/provide/vod/at/xml/","playUrl":"https://bf.md214.cn/?url="},
 {"type":0,"key":"02","name":"金鹰资源", "api":"https://jinyingzy.net/provide/vod/at/xml/"},
 {"type":0,"key":"03","name":"闪电资源", "api":"https://sdzyapi.com/api.php/provide/vod/at/xmlsea/"},
 {"type":0,"key":"04","name":"艾旦影视", "api":"https://www.lovedan.net/api.php/provide/vod/at/xml/"},
@@ -21,8 +21,7 @@
 {"name":"全民   ","type":0,"url":"https://api.quanminjiexi.com/?v="},
 {"name":"普清   ","type":0,"url":"http://api.wpsseo.cn/?v="},
 {"name":"爱奇艺 ","type":0,"url":"https://jx.xmflv.com/?url="},
-{"name":"芒果解析","type":0,"url":"https://jy.we-vip.com:2053/?url="},
-{"name":"腾讯解析","type":0,"url":"https://jx.jsonplayer.com/player/?url="}
+{"name":"芒果解析","type":0,"url":"https://jy.we-vip.com:2053/?url="}
 ],
 
 "spider":"https://gitee.com/tvcc/TV/raw/cc/jar/2212.jar",
