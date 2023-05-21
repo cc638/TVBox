@@ -1,7 +1,7 @@
 //  {"type":3,"key":"00","name":"兔小贝","api":"./js/lib/drpy2.min.js","ext":"./js/兔小贝.js"} "playUrl":""
 //  "蛋蛋影视", "api":"https://ddmf.net/api.php/provide/vod/at/xml/"}
 //  "官采资源", "api":"https://www.zycaiji.net:7788/api.php/provide/vod/at/xml/"}
-//  "快车资源", "api":"https://caiji.kczyapi.com/api.php/provide/vod/at/xml/"} 
+//  "快车资源", "api":"https://caiji.kczyapi.com/api.php/provide/vod/at/xml/"}
 {"sites": [
 {"type":0,"key":"01","name":"明帝影视", "api":"https://ys.md214.cn/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"02","name":"金鹰资源", "api":"https://jinyingzy.net/provide/vod/at/xml/"},
@@ -13,8 +13,9 @@
 {"type":3,"key":"08","name":"龙门影视", "api":"csp_AppYs", "ext":"https://movie.iqinu.com/api.php/v1.vod"}
 ],
 "parses": [
+{"name":"B站1   ","type":0,"url":"https://jx.jsonplayer.com/player/?url="}
 {"name":"B站    ","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
-{"name":"龙门    ","type":0,"url":"https://jx.aidouer.net/?url="},
+{"name":"龙门   ","type":0,"url":"https://jx.aidouer.net/?url="},
 {"name":"全民   ","type":0,"url":"https://api.quanminjiexi.com/?v="},
 {"name":"普清   ","type":0,"url":"http://api.wpsseo.cn/?v="},
 {"name":"爱奇艺 ","type":0,"url":"https://jx.xmflv.com/?url="},
