@@ -1,7 +1,7 @@
 //  {"type":3,"key":"00","name":"兔小贝","api":"./js/lib/drpy2.min.js","ext":"./js/兔小贝.js"} ,"playUrl":"https://jx.jsonplayer.com/player/?url="
 //  "蛋蛋影视", "api":"https://ddmf.net/api.php/provide/vod/at/xml/"}
-//  "官采资源", "api":"https://www.zycaiji.net:7788/api.php/provide/vod/at/xml/"}
-//  "快车资源", "api":"https://caiji.kczyapi.com/api.php/provide/vod/at/xml/"}
+//  "官采资源", "api":"https://www.zycaiji.net:7788/api.php/provide/vod/at/xml/"}  http://api.kunyu77.com/api.php
+//  "快车资源", "api":"https://caiji.kczyapi.com/api.php/provide/vod/at/xml/"}   https://zy.xiaomaomi.tv/api.php/app/
 //  "爱酷资源", "api":"https://ikunzyapi.com/api.php/provide/vod/at/xml/"}
 {"sites": [
 {"type":0,"key":"01","name":"明帝影视", "api":"https://ys.md214.cn/api.php/provide/vod/at/xml/"},
@@ -12,8 +12,8 @@
 {"type":3,"key":"06","name":"创艺影视", "api":"csp_AppYs", "ext":"https://www.30dian.cn/api.php/v1.vod"},
 {"type":3,"key":"07","name":"酷影蓝光", "api":"csp_AppYs", "ext":"http://kuying.kuyouk.top:9528/api.php/app/"},
 {"type":3,"key":"08","name":"龙门影视", "api":"csp_AppYs", "ext":"https://movie.iqinu.com/api.php/v1.vod"},
-{"type":3,"key":"09","name":"360影视","api":"./js/lib/drpy2.min.js","ext":"./js/360yingshi.js"},
-{"type":3,"key":"10","name":"一龙高清","api":"./js/lib/drpy2.min.js","ext":"./js/一龙高清.json"}
+{"type":3,"key":"09","name":"360影视","api":"https://gitee.com/tvcc/TV/raw/cc/js/lib/drpy2.min.js","ext":"./js/360yingshi.js"},
+{"type":3,"key":"10","name":"一龙高清","api":"https://gitee.com/tvcc/TV/raw/cc/js/lib/drpy2.min.js","ext":"./js/一龙高清.json"}
 ],
 "parses": [
 {"name":"B站    ","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
