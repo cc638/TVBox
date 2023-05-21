@@ -1,7 +1,7 @@
 {
 "spider":"https://tv.looo.top/app/jar/loamen_spider.jar;md5;a972e8f1a00b229bd9e585a9b910ae41",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0bWlycm9yLmNvbS9sbWNsdWIvYm94L21haW4vYXBwL2NvbmYvbGl2ZS50eHQ="]}]}],
-"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+"wallpaper":"http://www.kf666888.cn/api/tvbox/img", 
 "sites":[
 
 {"key":"csp_sp_酷云七七","name":"接口来自http://looo.top","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
