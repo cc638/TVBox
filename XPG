@@ -16,7 +16,6 @@
 {"type":3,"key":"10","name":"一龙高清","api":"./js/lib/drpy2.min.js","ext":"./js/一龙高清.json"}
 ],
 "parses": [
-{"name":"B站1   ","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 {"name":"B站    ","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"龙门   ","type":0,"url":"https://jx.aidouer.net/?url="},
 {"name":"全民   ","type":0,"url":"https://api.quanminjiexi.com/?v="},
