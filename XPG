@@ -13,7 +13,7 @@
 {"type":3,"key":"08","name":"龙门影视", "api":"csp_AppYs", "ext":"https://movie.iqinu.com/api.php/v1.vod"}
 ],
 "parses": [
-{"name":"B站1   ","type":0,"url":"https://jx.jsonplayer.com/player/?url="}
+{"name":"B站1   ","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 {"name":"B站    ","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"龙门   ","type":0,"url":"https://jx.aidouer.net/?url="},
 {"name":"全民   ","type":0,"url":"https://api.quanminjiexi.com/?v="},
