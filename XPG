@@ -8,7 +8,10 @@
 {"type":0,"key":"04","name":"艾旦影视","api":"https://www.lovedan.net/api.php/provide/vod/at/xml/"},
 {"type":3,"key":"06","name":"创艺影视","api":"csp_AppYs", "ext":"https://www.30dian.cn/api.php/v1.vod"},
 {"type":3,"key":"07","name":"酷影蓝光","api":"csp_AppYs", "ext":"http://kuying.kuyouk.top:9528/api.php/app/"},
-{"type":3,"key":"09","name":" 360影视","api":"https://gitee.com/tvcc/TV/raw/cc/js/lib/drpy2.min.js","ext":"./js/360yingshi.js"}
+{"type":3,"key":"09","name":"萌蛋蛋  ","api":"csp_AppYs", "ext":"http://app.mengdandan.com/xgapp.php/v2/"},
+{"type":3,"key":"10","name":"萝卜影视","api":"csp_AppYs", "ext":"http://app.qbtvw.com/api.php/app/"},
+{"type":3,"key":"11","name":"迷你库  ","api":"csp_AppYs", "ext":"http://www.miniku.cc/xgapp.php/v2/"},
+{"type":3,"key":"12","name":"8090 4K ","api":"csp_AppYs", "ext":"http://4k.953365.cn:8090/xgapp.php/v2/"}
 ],
 "parses": [
 {"name":"B站    ","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
