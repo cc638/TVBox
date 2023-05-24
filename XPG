@@ -7,6 +7,8 @@
 {"type":3,"key":"06","name":"创艺影视","api":"csp_AppYs", "ext":"https://www.30dian.cn/api.php/v1.vod"},
 {"type":3,"key":"07","name":"酷影蓝光","api":"csp_AppYs", "ext":"http://kuying.kuyouk.top:9528/api.php/app/"},
 {"type":3,"key":"09","name":"萌蛋蛋  ","api":"csp_AppYs", "ext":"http://app.mengdandan.com/xgapp.php/v2/"}
+{"type":3,"key":"10","name":"666     ","api":"csp_AppYs", "ext":"http://666.觅影.com/api.php/provide/"}
+{"type":3,"key":"11","name":"666 自营","api":"csp_AppYs", "ext":"https://vip.mivideo.com/xgapp.php/v3/"}
 ],
 "parses": [
 {"name":"B站    ","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
