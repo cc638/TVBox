@@ -15,8 +15,10 @@
 {"name":"龙门   ","type":0,"url":"https://jx.aidouer.net/?url="},
 {"name":"全民   ","type":0,"url":"https://api.quanminjiexi.com/?v="},
 {"name":"普清   ","type":0,"url":"http://api.wpsseo.cn/?v="},
-{"name":"爱奇艺 ","type":0,"url":"https://jx.xmflv.com/?url="},
-{"name":"芒果解析","type":0,"url":"https://jy.we-vip.com:2053/?url="}
+{"name":"JY视频 ","type":0,"url":"https://jx.playerjy.com/?url="},
+{"name":"视频流 ","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
+{"name":"1717yun","type":0,"url":"https://www.1717yun.com/jx/ty.php?url="},
+{"name":"bl     ","type":0,"url":"https://vip.bljiex.com/?v="}
 ],
 "spider":"https://gitee.com/tvcc/TV/raw/cc/jar/XPG.jar",
 "wallpaper":"https://gitee.com/tvcc/TV/raw/cc/jar/%E5%A3%81%E7%BA%B8",
