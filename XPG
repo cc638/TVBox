@@ -18,7 +18,7 @@
 {"name":"爱奇艺 ","type":0,"url":"https://jx.xmflv.com/?url="},
 {"name":"芒果解析","type":0,"url":"https://jy.we-vip.com:2053/?url="}
 ],
-"spider":"https://gitee.com/tvcc/TV/raw/cc/jar/2212.jar",
+"spider":"https://gitee.com/tvcc/TV/raw/cc/jar/fan.txt",
 "wallpaper":"https://gitee.com/tvcc/TV/raw/cc/jar/%E5%A3%81%E7%BA%B8",
 "lives":[{"name":"TVbox","type":0,"url":"https://gitee.com/tvcc/TV/raw/cc/MGZB.txt"}],
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","mgtv","huanxi","bilibili","xigua","m1905","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
