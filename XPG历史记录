@@ -15,3 +15,6 @@
 {"type":3,"key":"07","name":"酷影蓝光","api":"csp_AppYs", "ext":"http://kuying.kuyouk.top:9528/api.php/app/"},
 {"type":3,"key":"09","name":"萌蛋蛋  ","api":"csp_AppYs", "ext":"http://app.mengdandan.com/xgapp.php/v2/"},
 {"type":3,"key":"10","name":"555电影 ","api":"csp_AppYs", "ext":"https://www.555ys1.com/api.php/app/"}
+{"key":"红红","name":"红红","type":3,"api":"csp_AppYsV2","ext":"http://bbq.1006.tk/icciu_api.php/v1.vod"},
+{"key":"黄黄","name":"黄黄","api":"csp_AppYsV2","type":3,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
+如意4k http://cms.maoyingshi.cc/api.php/app/
