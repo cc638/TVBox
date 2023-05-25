@@ -1,11 +1,8 @@
 {
-## spider
-//"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar",
-"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
+"spider":"https://gitee.com/tvcc/TV/raw/cc/jar/2212.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
 "sites":[
 ## M浏览器中APP影视规则支持(AppYsV2)
-#萝卜/白菜/木白/绿豆
 {"key":"csp_appysv2_筑梦云影视","name":"筑梦云影视(萝卜)","type":3,"api":"csp_AppYsV2","ext":"http://wzys.scp00.cn/api.php/v1.vod"},
 {"key":"csp_appysv2_一站VIP影视","name":"一站VIP影视(萝卜)","type":3,"api":"csp_AppYsV2","ext":"https://www.dpp8.xyz/api.php/v1.vod"},
 {"key":"csp_appysv2_渔渔影视","name":"渔渔影视(萝卜)","type":3,"api":"csp_AppYsV2","ext":"http://luobo.yugenye.site/api.php/v1.vod"},
