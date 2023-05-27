@@ -10,8 +10,8 @@
 "parses": [
 {"name":"B站    ","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"龙门   ","type":0,"url":"https://jx.aidouer.net/?url="},
-{"name":"全民   ","type":0,"url":"https://api.quanminjiexi.com/?v="},
-{"name":"普清   ","type":0,"url":"http://api.wpsseo.cn/?v="},
+{"name":"全民备用","type":0,"url":"https://api.quanminjiexi.com/?v="},
+{"name":"全民主线","type":0,"url":"http://api.wpsseo.cn/?v="},
 {"name":"解析01 ","type":0,"url":"https://okjx.cc/?url="},
 {"name":"解析02 ","type":0,"url":"https://www.cloudplayer.live/?url="}
 ],
