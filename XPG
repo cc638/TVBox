@@ -4,17 +4,16 @@
 {"type":0,"key":"03","name":"艾旦影视","api":"https://www.lovedan.net/api.php/provide/vod/at/xml/"},
 {"type":3,"key":"04","name":"创艺影视","api":"csp_AppYs", "ext":"https://www.30dian.cn/api.php/v1.vod"},
 {"type":3,"key":"05","name":"555电影 ","api":"csp_AppYs", "ext":"https://www.555ys1.com/api.php/app/"},
-{"type":3,"key":"06","name":"如意4K  ","api":"csp_AppYs", "ext":"http://cms.maoyingshi.cc/api.php/app/"}
+{"type":3,"key":"06","name":"如意4K  ","api":"csp_AppYs", "ext":"http://cms.maoyingshi.cc/api.php/app/"},
+{"type":0,"key":"00","name":"小主影视","api":"http://tv.406np.xyz/api.php/provide/vod/at/xml/"}
 ],
 "parses": [
 {"name":"B站    ","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"龙门   ","type":0,"url":"https://jx.aidouer.net/?url="},
 {"name":"全民   ","type":0,"url":"https://api.quanminjiexi.com/?v="},
 {"name":"普清   ","type":0,"url":"http://api.wpsseo.cn/?v="},
-{"name":"JY视频 ","type":0,"url":"https://jx.playerjy.com/?url="},
-{"name":"视频流 ","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
-{"name":"1717yun","type":0,"url":"https://www.1717yun.com/jx/ty.php?url="},
-{"name":"bl     ","type":0,"url":"https://vip.bljiex.com/?v="}
+{"name":"解析01 ","type":0,"url":"https://okjx.cc/?url="},
+{"name":"解析02 ","type":0,"url":"https://www.cloudplayer.live/?url="}
 ],
 "spider":"https://gitee.com/tvcc/TV/raw/cc/jar/2212.jar",
 "wallpaper":"https://gitee.com/tvcc/TV/raw/cc/jar/%E5%A3%81%E7%BA%B8",
