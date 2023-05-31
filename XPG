@@ -4,7 +4,7 @@
 {"type":0,"key":"03","name":"免费官采","api":"http://sm.ybzlt.club/api.php/provide/vod/at/xml/"},
 {"type":3,"key":"04","name":"创艺影视","api":"csp_AppYs", "ext":"https://www.30dian.cn/api.php/v1.vod"},
 {"type":3,"key":"05","name":"555电影 ","api":"csp_AppYs", "ext":"https://www.555ys1.com/api.php/app/"},
-{"type":3,"key":"06","name":"如意4K  ","api":"csp_AppYs", "ext":"http://cms.maoyingshi.cc/api.php/app/"},
+{"type":3,"key":"06","name":"觅影自营","api":"csp_AppYs", "ext":"https://vip.mivideo.com/xgapp.php/v3/"},
 {"type":0,"key":"00","name":"忆梦影视","api":"http://anltv.cn/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"11","name":"全民影视","api":"http://www.cmov.cn/api.php/provide/vod/at/xml/"}
 ],
