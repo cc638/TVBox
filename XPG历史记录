@@ -18,6 +18,14 @@
 {"key":"红红","name":"红红","type":3,"api":"csp_AppYsV2","ext":"http://bbq.1006.tk/icciu_api.php/v1.vod"},
 {"key":"黄黄","name":"黄黄","api":"csp_AppYsV2","type":3,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 如意4k http://cms.maoyingshi.cc/api.php/app/
+{"type":0,"key":"01","name":"明帝影视","api":"https://ys.md214.cn/api.php/provide/vod/at/xml/"},
+{"type":0,"key":"02","name":"虎牙影视","api":"https://www.huyaapi.com/api.php/provide/vod/at/xml/"},
+{"type":0,"key":"03","name":"免费官采","api":"http://sm.ybzlt.club/api.php/provide/vod/at/xml/"},
+{"type":3,"key":"04","name":"创艺影视","api":"csp_AppYs", "ext":"https://www.30dian.cn/api.php/v1.vod"},
+{"type":3,"key":"05","name":"555电影 ","api":"csp_AppYs", "ext":"https://www.555ys1.com/api.php/app/"},
+{"type":3,"key":"06","name":"如意4K  ","api":"csp_AppYs", "ext":"http://cms.maoyingshi.cc/api.php/app/"},
+{"type":0,"key":"00","name":"忆梦影视","api":"http://anltv.cn/api.php/provide/vod/at/xml/"},
+{"type":0,"key":"11","name":"全民影视","api":"http://www.cmov.cn/api.php/provide/vod/at/xml/"}
 #
 
 
