@@ -5,11 +5,10 @@
 {"type":0,"key":"04","name":"虎牙资源","api":"https://www.huyaapi.com/api.php/provide/vod/at/xml/"}
 ],
 "parses": [
-{"name":"B站    ","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
-{"name":"全民备用","type":0,"url":"https://api.quanminjiexi.com/?v="},
 {"name":"全民主线","type":0,"url":"http://api.wpsseo.cn/?v="},
-{"name":"解析01 ","type":0,"url":"https://okjx.cc/?url="},  //CK解析
-{"name":"解析02 ","type":0,"url":"http://www.wpsseo.cn/jiexi/?jx="}  //全民全屏解析
+{"name":"B站解析","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+{"name":"CK解析 ","type":0,"url":"https://okjx.cc/?url="},
+{"name":"全民解析","type":0,"url":"http://www.wpsseo.cn/jiexi/?jx="}
 ],
 "spider":"https://gitee.com/tvcc/TV/raw/cc/jar/2212.jar",
 "wallpaper":"https://gitee.com/tvcc/TV/raw/cc/jar/%E5%A3%81%E7%BA%B8",
