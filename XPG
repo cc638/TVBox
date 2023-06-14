@@ -1,5 +1,5 @@
 {"sites": [
-{"type":0,"key":"01","name":"免费官采","api":"http://sm.ybzlt.club/api.php/provide/vod/at/xml/"},
+{"type":0,"key":"01","name":"明帝影视","api":"https://cj.md214.cn/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"02","name":"全民影视","api":"http://www.cmov.cn/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"03","name":"光速资源","api":"https://api.guangsuapi.com/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"04","name":"虎牙资源","api":"https://www.huyaapi.com/api.php/provide/vod/at/xml/"}
