@@ -1,5 +1,5 @@
 ,"playUrl":"https://bf.md214.cn/?url="
-
+"lives":[{"name":"TVbox","type":0,"url":"https://gitee.com/tvcc/TV/raw/cc/MGZB.txt"}],
 
 {"type":3,"key":"10","name":"萝卜影视","api":"csp_AppYs", "ext":"http://app.qbtvw.com/api.php/app/"},
 {"type":3,"key":"11","name":"迷你库  ","api":"csp_AppYs", "ext":"http://www.miniku.cc/xgapp.php/v2/"},
