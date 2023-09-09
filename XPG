@@ -10,9 +10,9 @@
 {"name":"CK解析 ","type":0,"url":"https://okjx.cc/?url="},
 {"name":"全民解析","type":0,"url":"http://www.wpsseo.cn/jiexi/?jx="}
 ],
-"spider":"https://gitee.com/tvcc/TV/raw/cc/jar/2212.jar",
-"wallpaper":"https://gitee.com/tvcc/TV/raw/cc/jar/%E5%A3%81%E7%BA%B8",
-"lives":[{"type":0,"url":"https://gitee.com/tvcc/TV/raw/cc/MGZB.txt"}],
+"spider":"https://gitcode.net/q285396587/tv/-/raw/cc/jar/2212.jar",
+"wallpaper":"https://gitcode.net/q285396587/tv/-/raw/cc/jar/壁纸",
+"lives":[{"type":0,"url":"https://gitcode.net/q285396587/tv/-/raw/cc/MGZB.txt"}],
 "rules": [
 {"name": "量子廣告","hosts": ["vip.lz","hd.lz"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name": "非凡廣告","hosts": ["vip.ffzy","hd.ffzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
