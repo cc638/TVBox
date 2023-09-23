@@ -1,4 +1,5 @@
-   [ TOMATOX-Setup-仓库地址升级]（https://gitee.com/yanjiaxuan/tomatox）
+https://gh.api.99988866.xyz/https://raw.githubusercontent.com/cc638/TV/cc/XPG
+[ TOMATOX-Setup-仓库地址升级]（https://gitee.com/yanjiaxuan/tomatox）
 
 龙门影视.json     https://agit.ai/VivoMax/online
 
