@@ -8,7 +8,7 @@
 {"name":"全民主线","type":0,"url":"http://api.wpsseo.cn/?v="},
 {"name":"B站解析","type":0,"url":"https://jx.bozrc.com:4433/player/?url="}
 ],
-"spider":"./YSC.jar",
+"spider":"./XPG.jar",
 "wallpaper":"./壁纸",
 "lives":[{"type":0,"url":"./MGZB.txt"}],
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","mgtv","huanxi","bilibili","xigua","m1905","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
