@@ -1,5 +1,4 @@
-{
-"sites": [
+{"sites": [
 {"type":0,"key":"01","name":"金鹰影视","api":"https://jyzyapi.com/provide/vod/at/xml/"},
 {"type":0,"key":"02","name":"天空资源","api":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"03","name":"光速资源","api":"https://api.guangsuapi.com/api.php/provide/vod/at/xml/"},
