@@ -10,7 +10,9 @@
 ],
 "parses":[
 {"name":"B站解析","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
-{"name":"全民解析","type":0,"url":"http://api.quanminjiexi.com/?v="}
+{"name":"全民解析","type":0,"url":"http://api.quanminjiexi.com/?v="},
+{"name":"狐狸解析","type":0,"url":"https://player.mrgaocloud.com/player/?url="},
+{"name":"大噶解析","type":0,"url":"https://www.daga.cc/vip1/?url="}
 ],
 "spider":"./2YSC.jar",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
