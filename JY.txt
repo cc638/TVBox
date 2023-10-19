@@ -1,10 +1,10 @@
 {"sites":[
-{"type":0,"key":"01","name":"豪华资源","api":"https://hhzyapi.com/api.php/provide/vod/at/xml"},
-{"type":0,"key":"02","name":"光速资源","api":"https://api.guangsuapi.com/api.php/provide/vod/at/xml/"},
-{"type":0,"key":"03","name":"天空资源","api":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/"},
-{"type":0,"key":"04","name":"虎牙资源","api":"https://www.huyaapi.com/api.php/provide/vod/at/xml/"},
-{"type":0,"key":"05","name":"无尽资源","api":"https://api.wujinapi.me/api.php/provide/vod/at/xml/"},
-{"type":0,"key":"00","name":"金鹰影视","api":"https://jyzyapi.com/provide/vod/at/xml/"}
+{"type":0,"key":"01","name":"豪华①","api":"https://hhzyapi.com/api.php/provide/vod/at/xml"},
+{"type":0,"key":"02","name":"光速②","api":"https://api.guangsuapi.com/api.php/provide/vod/at/xml/"},
+{"type":0,"key":"03","name":"虎牙③","api":"https://www.huyaapi.com/api.php/provide/vod/at/xml/"},
+{"type":0,"key":"04","name":"天空④","api":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/"},
+{"type":0,"key":"05","name":"无尽⑤","api":"https://api.wujinapi.me/api.php/provide/vod/at/xml/"},
+{"type":0,"key":"00","name":"金鹰⑥","api":"https://jyzyapi.com/provide/vod/at/xml/"}
 ],
 "parses":[
 {"name":"B站解析","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
@@ -15,10 +15,6 @@
 "spider":"./2YSC.jar",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives":[{"name":"live","type":0,"url":"./MGZB.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
-"rules":[
-{"name":"量子廣告","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-{"name":"非凡廣告","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]}
-],
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","mgtv","huanxi","bilibili","xigua","m1905","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
 "ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-rangeupport","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurateeek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},
 {"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-rangeupport","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurateeek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
