@@ -1,10 +1,10 @@
 {"sites":[
-{"type":0,"key":"01","name":"豪华①","api":"https://hhzyapi.com/api.php/provide/vod/at/xml"},
-{"type":0,"key":"02","name":"光速②","api":"https://api.guangsuapi.com/api.php/provide/vod/at/xml/"},
-{"type":0,"key":"03","name":"虎牙③","api":"https://www.huyaapi.com/api.php/provide/vod/at/xml/"},
-{"type":0,"key":"04","name":"天空④","api":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/"},
-{"type":0,"key":"05","name":"无尽⑤","api":"https://api.wujinapi.me/api.php/provide/vod/at/xml/"},
-{"type":0,"key":"00","name":"金鹰⑥","api":"https://jyzyapi.com/provide/vod/at/xml/"}
+{"type":0,"key":"1","name":"豪华①","api":"https://hhzyapi.com/api.php/provide/vod/at/xml"},
+{"type":0,"key":"2","name":"光速②","api":"https://api.guangsuapi.com/api.php/provide/vod/at/xml/"},
+{"type":0,"key":"3","name":"虎牙③","api":"https://www.huyaapi.com/api.php/provide/vod/at/xml/"},
+{"type":0,"key":"4","name":"天空④","api":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/"},
+{"type":0,"key":"5","name":"无尽⑤","api":"https://api.wujinapi.me/api.php/provide/vod/at/xml/"},
+{"type":0,"key":"6","name":"金鹰⑥","api":"https://jyzyapi.com/provide/vod/at/xml/"}
 ],
 "parses":[
 {"name":"B站解析","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
