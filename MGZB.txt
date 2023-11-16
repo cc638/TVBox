@@ -68,11 +68,8 @@ CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212257
 CCTV4,http://jycb.f3322.net:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
-
 地方,#genre#
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-
 湖南卫视,https://live.goodiptv.club/api/cqyx.php?id=hunanHD
 重庆卫视,https://live.goodiptv.club/api/cqyx.php?id=chongqingHD
 江苏卫视,https://live.goodiptv.club/api/cqyx.php?id=jiangsuHD
@@ -106,8 +103,6 @@ CCTV5+,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&au
 文化精品,https://live.goodiptv.club/api/cqyx.php?id=yswhHD
 高尔夫网球,https://live.goodiptv.club/api/cqyx.php?id=golfHD
 早期教育,https://live.goodiptv.club/api/cqyx.php?id=zaojiaoHD
-
-
 江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
@@ -123,8 +118,7 @@ CCTV5+,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&au
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 
 四川,#genre#
-峨眉电影,http://182.136.139.230:4022/udp/239.93.0.252:5140
-
+峨眉电影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
 
 香港,#genre#
 翡翠台,http://r.jdshipin.com/qClQf
