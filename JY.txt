@@ -13,7 +13,7 @@
 {"name":"大噶解析","type":0,"url":"https://www.daga.cc/vip1/?url="}
 ],
 "spider":"./AA.jar",
-"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+"wallpaper":"https://sourl.cn/TqzhDX",
 "lives":[{"name":"live","type":0,"url":"./TV.txt","epg": "http://api.cntv.cn/epg/epginfo?serviceId=cbox&c={name}&d={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],//"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","mgtv","huanxi","bilibili","xigua","m1905","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
 "ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-rangeupport","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurateeek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},
