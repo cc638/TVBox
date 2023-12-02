@@ -1,13 +1,13 @@
 {"sites":[
-{"type":3,"key":"0","name":"box","csp_AppYsV2","ext":"http://www.ccbox.icu:88/api.php/app/"},
+{"type":3,"key":"0","name":"box","api":"csp_AppYsV2","ext":"http://www.ccbox.icu:88/api.php/app/"},
 {"type":0,"key":"1","name":"豪华①","api":"https://hhzyapi.com/api.php/provide/vod/at/xml"},
 {"type":0,"key":"2","name":"光速②","api":"https://api.guangsuapi.com/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"3","name":"虎牙③","api":"https://www.huyaapi.com/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"4","name":"天空④","api":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"5","name":"无尽⑤","api":"https://api.wujinapi.me/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"6","name":"金鹰⑥","api":"https://jyzyapi.com/provide/vod/at/xml/"},
-{"type":3,"key":"7","name":"🍟爱迪","csp_AppYsV2","ext":"https://api123.adys.app/xgapp.php/v3/"},
-{"type":3,"key":"8","name":"迷你库","csp_AppYsV2","ext":"http://www.miniku.cc/xgapp.php/v1/"}
+{"type":3,"key":"7","name":"🍟爱迪","api":"csp_AppYsV2","ext":"https://api123.adys.app/xgapp.php/v3/"},
+{"type":3,"key":"8","name":"迷你库","api":"csp_AppYsV2","ext":"http://www.miniku.cc/xgapp.php/v1/"}
 ],
 "parses":[
 {"name":"B站解析","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
