@@ -4,7 +4,7 @@
 {"type":0,"key":"3","name":"虎牙③","api":"https://www.huyaapi.com/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"4","name":"天空④","api":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"5","name":"无尽⑤","api":"https://api.wujinapi.me/api.php/provide/vod/at/xml/"},
-{"type":0,"key":"6","name":"金鹰⑥","api":"https://jyzyapi.com/provide/vod/at/xml/"},
+{"type":0,"key":"6","name":"琉璃⑥","api":"https://www.liuliyy.com/api.php/provide/vod/at/xml"},
 {"type":3,"key":"8","name":"box","api":"csp_AppYsV2","ext":"http://ccbox.icu:88/api.php/app/"},
 {"type":3,"key":"9","name":"迷你库","api":"csp_AppYsV2","ext":"http://www.miniku.cc/xgapp.php/v1/"}
 ],
