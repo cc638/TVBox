@@ -5,7 +5,7 @@
 {"type":0,"key":"4","name":"天空④","api":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"5","name":"无尽⑤","api":"https://api.wujinapi.me/api.php/provide/vod/at/xml/"},
 {"type":0,"key":"6","name":"琉璃⑥","api":"https://www.liuliyy.com/api.php/provide/vod/at/xml"},
-{"type":3,"key":"9","name":"迷你库","api":"csp_AppYsV2","ext":"http://www.miniku.cc/xgapp.php/v1/"}
+{"type":3,"key":"9","name":"影视★","api":"csp_AppYsV2","ext":"https://cc.serv00.net/api.php/app/"}
 ],
 "parses":[
 {"name":"B站解析","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
