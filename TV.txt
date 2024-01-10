@@ -79,8 +79,7 @@ CETV4,https://iptv.luas.edu.cn/liverespath/d9fd740848ee6bc5d883832bba7cafb905243
 
 香港地方,#genre#
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-民视新闻,http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
-民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+民视新闻,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156389
 凤凰中文,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 凤凰资讯,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/n90gt
