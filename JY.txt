@@ -4,8 +4,7 @@
 {"type":1,"key":"4","name":"天空2","api":"https://api.tiankongapi.com/api.php/provide/vod/"},
 {"type":1,"key":"5","name":"无尽3","api":"https://api.wujinapi.me/api.php/provide/vod/"},
 {"type":1,"key":"6","name":"琉璃4","api":"https://www.liuliyy.com/api.php/provide/vod/"},
-{"type":1,"key":"7","name":"高清5","api":"https://bfzyapi.com/api.php/provide/vod"},
-{"type":1,"key":"8","name":"QQQQ6","api":"http://cj.xiaomaomi.tv/api.php/provide/vod/from/qq/"}
+{"type":1,"key":"8","name":"火花6","api":"http://cj.huohua.vip/api.php/provide/vod/?ac=list"}
 ],
 "parses":[
 {"name":"bi站解析","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
