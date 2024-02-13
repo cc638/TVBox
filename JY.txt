@@ -5,7 +5,8 @@
 {"type":1,"key":"2","name":"爱酷③","api":"https://ikunzyapi.com/api.php/provide/vod"},
 {"type":1,"key":"3","name":"琉璃④","api":"https://www.liuliyy.com/api.php/provide/vod"},
 {"type":1,"key":"4","name":"初恋⑤","api":"https://video.adminqt.cn/api.php/provide/vod"},
-{"type":3,"key":"5","name":"短剧⑥","api":"csp_Duanju","jar":"https://tvbox.cainisi.cf/jar/fm0127.jar;md5;7d13878c01ea655d716fd1aa39b0094e"}
+{"type":3,"key":"5","name":"短剧⑥","api":"csp_Duanju","jar":"https://raw.kkgithub.com/cc638/T/c/duanju.jar"},
+{"type":3,"key":"6","name":"一起看","api":"csp_YQKan"}
 ],
 "parses":[
 {"name":"bi站解析","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
