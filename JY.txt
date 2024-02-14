@@ -20,7 +20,7 @@
 ],
 
 "spider":"https://raw.github.com/cc638/T/c/AA.jar",
-"wallpaper":"https://sourl.cn/2Y4eEr",
+"wallpaper":"https://pic.wenwen.soso.com/p/20180922/20180922005431-271169642_jpeg_450_450_14917.jpg",
 
 "lives":[
 {"name":"自营","type":0,"logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://raw.github.com/cc638/T/c/TV.txt"},
