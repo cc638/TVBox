@@ -1,13 +1,12 @@
 //"api":"csp_AppYsV2","ext":"http://106.52.241.21:83/api.php/app/"},
 {"sites":[
-{"type":1,"key":"0","name":"豪华①","api":"https://hhzyapi.com/api.php/provide/vod"},
-{"type":1,"key":"1","name":"自建②","api":"https://cc.serv00.net/api.php/provide/vod"},
-{"type":1,"key":"2","name":"爱酷③","api":"https://ikunzyapi.com/api.php/provide/vod"},
-{"type":0,"key":"3","name":"索尼⑥","api":"https://suoniapi.com/api.php/provide/vod/at/xml"},
-{"type":1,"key":"4","name":"初恋④","api":"https://video.adminqt.cn/api.php/provide/vod"},
-{"type":3,"key":"5","name":"短剧⑤","api":"csp_Duanju","jar":"https://raw.kkgithub.com/cc638/T/c/duanju.jar"},
-{"type":3,"key":"6","name":"农民⑧","api":"csp_Nmys","ext":"https://tv.菜妮丝.top/json/nmys.json"},
-{"type":3,"key":"7","name":"360视 ","api":"csp_SP360","jar":"https://tv.菜妮丝.top/jar/xyq1123.jar"}
+{"type":1,"key":"0","name":"豪华1","api":"https://hhzyapi.com/api.php/provide/vod"},
+{"type":1,"key":"1","name":"自建2","api":"https://cc.serv00.net/api.php/provide/vod"},
+{"type":1,"key":"2","name":"爱酷3","api":"https://ikunzyapi.com/api.php/provide/vod"},
+{"type":0,"key":"3","name":"光速4","api":"https://api.guangsuapi.com/api.php/provide/vod/at/xml"},
+{"type":1,"key":"4","name":"初恋5","api":"https://video.adminqt.cn/api.php/provide/vod"},
+{"type":3,"key":"5","name":"短剧6","api":"csp_Duanju","jar":"https://raw.github.com/cc638/T/c/duanju.jar"},
+{"type":3,"key":"6","name":"农民7","api":"csp_Nmys","ext":"https://tv.菜妮丝.top/json/nmys.json"}
 ],
 "parses":[
 {"name":"bi站解析","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
@@ -20,11 +19,11 @@
 {"name":"零点解析","type":0,"url":"http://www.jzmhtt.com/zdy/vip/?url="}
 ],
 
-"spider":"https://raw.kkgithub.com/cc638/T/c/AA.jar",
-"wallpaper":"https://sourl.cn/TqzhDX",
+"spider":"https://raw.github.com/cc638/T/c/AA.jar",
+"wallpaper":"https://sourl.cn/2Y4eEr",
 
 "lives":[
-{"name":"自营","type":0,"logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://raw.kkgithub.com/cc638/T/c/TV.txt"},
+{"name":"自营","type":0,"logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://raw.github.com/cc638/T/c/TV.txt"},
 {"name":"IPv4","type":0,"logo":"https://epg.112114.xyz/logo/{name}.png","url":"http://我不是.肥猫.live/TV/tvzb.txt"},
 {"name":"IPv6","type":0,"logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"}
 ],
