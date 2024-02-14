@@ -19,7 +19,7 @@
 {"name":"零点解析","type":0,"url":"http://www.jzmhtt.com/zdy/vip/?url="}
 ],
 
-"spider":"./AA.jar",
+"spider":"https://raw.github.com/cc638/T/c/AA.jar",
 "wallpaper":"https://pic.wenwen.soso.com/p/20180922/20180922005431-271169642_jpeg_450_450_14917.jpg",
 
 "lives":[
