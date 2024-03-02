@@ -3,7 +3,6 @@
 {"type":1,"key":"0","name":"豪华1","api":"https://hhzyapi.com/api.php/provide/vod"},
 {"type":1,"key":"1","name":"自建2","api":"https://cc.serv00.net/api.php/provide/vod"},
 {"type":1,"key":"2","name":"爱酷3","api":"https://ikunzyapi.com/api.php/provide/vod"},
-{"type":0,"key":"3","name":"光速4","api":"https://api.guangsuapi.com/api.php/provide/vod/at/xml"},
 {"type":1,"key":"4","name":"初恋5","api":"https://video.adminqt.cn/api.php/provide/vod"},
 {"type":3,"key":"6","name":"农民7","api":"csp_Nmys","ext":"https://tv.菜妮丝.top/json/nmys.json"}
 ],
