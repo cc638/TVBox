@@ -27,8 +27,8 @@
 "wallpaper":"https://cdn.bbj.icu/bbjposter/20230330/p2883062010.jpg",
 
 "lives":[
-{"name":"自营","type":0,"logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://cns.xn--yhqu5zs87a.top/https://raw.github.com/cc638/T/c/TV.txt"},
-{"name":"IPv6","type":0,"logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"}
+{"name":"中国电信","type":0,"logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://cns.xn--yhqu5zs87a.top/https://raw.github.com/cc638/T/c/TV.txt"},
+{"name":"中国移动","type":0,"logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"}
 ],
 
 "rules":[
