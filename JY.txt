@@ -11,9 +11,7 @@
 
 {"type":3,"key":"08","name":"影视之家","api":"csp_AppYsV2","ext":"http://yingszj.xn--654a.cc/api.php/app/"},
 {"type":3,"key":"09","name":"短剧之家","api":"csp_AppYsV2","ext":"http://106.52.241.21:83/api.php/app/"},
-{"type":3,"key":"10","name":"免费影视","api":"csp_AppYsV2","ext":"https://www.kuin.one/api.php/app/"},
-
-{"type":0,"key":"00","name":"禁禁资源","api":"https://www.cmzyz.cc/Cmzyzapi.php/provide/vod/at/xml"}
+{"type":3,"key":"10","name":"免费影视","api":"csp_AppYsV2","ext":"https://www.kuin.one/api.php/app/"}
 ],
 "parses":[
 {"name":"初恋解析","type":0,"url":"https://t1.qlplayer.cyou/player/analysis.php?v="},
