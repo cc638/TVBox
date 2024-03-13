@@ -15,6 +15,7 @@
 ],
 "parses":[
 {"name":"初恋解析","type":0,"url":"https://t1.qlplayer.cyou/player/analysis.php?v="},
+{"name":"花旗解析","type":0,"url":"https://www.huaqi.live/?url="},
 {"name":"bi站解析","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 {"name":"虾米解析","type":0,"url":"https://jx.xmflv.com/?url="},
 {"name":"内部解析","type":0,"url":"https://jx.2s0.cn/player/?url="},
