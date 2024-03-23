@@ -17,9 +17,7 @@
 {"name":"bi站解析","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 {"name":"虾米解析","type":0,"url":"https://jx.xmflv.com/?url="},
 {"name":"内部解析","type":0,"url":"https://jx.2s0.cn/player/?url="},
-{"name":"玩的嗨析","type":0,"url":"https://tv.wandhi.com/go.html?url="},
-{"name":"BL播解析","type":0,"url":"https://vip.bljiex.com/?v="},
-{"name":"零点解析","type":0,"url":"http://www.jzmhtt.com/zdy/vip/?url="}
+{"name":"无广告解","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="}
 ],
 
 "spider":"https://cns.xn--yhqu5zs87a.top/https://raw.github.com/cc638/T/c/AA.jar",
