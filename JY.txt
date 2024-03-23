@@ -1,17 +1,15 @@
-//"api":"csp_AppYsV2","ext":"http://106.52.241.21:83/api.php/app/"},
+//{"type":1,"key":"01","name":"爱酷❤","api":"https://ikunzy.vip/api.php/provide/vod","playUrl":"https://www.ikdmjx.com/?url="},
 {"sites":[
 {"type":1,"key":"01","name":"豪华❤","api":"https://www.haohuaziyuan.com/api.php/provide/vod"},
-{"type":1,"key":"02","name":"自建❤","api":"https://cc.serv00.net/api.php/provide/vod"},
-{"type":1,"key":"03","name":"爱酷❤","api":"https://ikunzy.vip/api.php/provide/vod","playUrl":"https://www.ikdmjx.com/?url="},
-{"type":0,"key":"04","name":"初恋❤","api":"https://www.seacms.org/zyapi.php"},
+{"type":1,"key":"02","name":"新浪❤","api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod"},
+{"type":1,"key":"03","name":"天空❤","api":"https://m3u8.tiankongapi.com/api.php/provide/vod"},
+{"type":1,"key":"04","name":"光速❤","api":"https://api.guangsuapi.com/api,php/provide/vod"},
+{"type":1,"key":"05","name":"金鹰❤","api":"https://jyzyapi.com/provide/vod/"},
 
-{"type":3,"key":"05","name":"南国","api":"csp_NanGua"},
-{"type":3,"key":"06","name":"木鱼","api":"csp_MYYS"},
-{"type":3,"key":"07","name":"萌龙","api":"csp_MLYS"},
+{"type":0,"key":"11","name":"初恋❤","api":"https://www.seacms.org/zyapi.php"},
 
-{"type":3,"key":"08","name":"影视之家","api":"csp_AppYsV2","ext":"http://yingszj.xn--654a.cc/api.php/app/"},
-{"type":3,"key":"09","name":"短剧之家","api":"csp_AppYsV2","ext":"http://106.52.241.21:83/api.php/app/"},
-{"type":3,"key":"10","name":"免费影视","api":"csp_AppYsV2","ext":"https://www.kuin.one/api.php/app/"}
+{"type":3,"key":"22","name":"南国","api":"csp_NanGua"},
+{"type":3,"key":"23","name":"短剧之家","api":"csp_AppYsV2","ext":"http://106.52.241.21:83/api.php/app/"}
 ],
 "parses":[
 {"name":"初恋解析","type":0,"url":"https://t1.qlplayer.cyou/player/analysis.php?v="},
@@ -30,18 +28,6 @@
 "lives":[
 {"name":"中国电信","type":0,"logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://cns.xn--yhqu5zs87a.top/https://raw.github.com/cc638/T/c/TV.txt"},
 {"name":"中国移动","type":0,"logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"}
-],
-
-"rules":[
-{"name":"量子","hosts":["vip.lz","v.cdnlz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.5333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-{"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-{"name":"暴风","hosts":["bfzy","s5.bfzycdn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-{"name":"索尼","hosts":["suonizy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15.1666,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15.2666,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-{"name":"蜗牛","hosts":["vip.123pan.cn","rescdn.wuxivlog.cn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-{"name":"农民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
-{"name":"hs","hosts":["huoshan.com"],"regex":["item_id="]},
-{"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},
-{"name":"cl","hosts":["magnet"],"regex":["最新","直播","更新"]}
 ],
 
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","mgtv","huanxi","bilibili","xigua","m1905","yparse","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
