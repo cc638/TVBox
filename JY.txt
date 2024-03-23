@@ -8,7 +8,7 @@
 
 {"type":0,"key":"11","name":"初恋❤","api":"https://www.seacms.org/zyapi.php"},
 
-{"type":3,"key":"22","name":"南国","api":"csp_NanGua"},
+{"type":3,"key":"22","name":"南国之家","api":"csp_NanGua"},
 {"type":3,"key":"23","name":"短剧之家","api":"csp_AppYsV2","ext":"http://106.52.241.21:83/api.php/app/"}
 ],
 "parses":[
