@@ -7,7 +7,7 @@
 {"type":1,"key":"05","name":"量子♥","api":"https://cj.lziapi.com/api.php/provide/vod/"},
 
 {"type":3,"key":"12","name":"短剧♥","api":"csp_AppYsV2","ext":"http://106.52.241.21:83/api.php/app/"},
-{"type":1,"key":"00","name":"5566♥","api":"https://caiji.5566ziyuan.com/api.php/provide/vod/"}//"name":"海洋♥","api":"https://www.seacms.org/zyapi.php/"
+{"type":1,"key":"00","name":"5566♥","api":"https://caiji.5566ziyuan.com/api.php/provide/vod/"}
 
 ],
 "parses":[
