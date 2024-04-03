@@ -1,13 +1,13 @@
-//{"type":1,"key":"01","name":"爱酷🐟","api":"https://ikunzy.vip/api.php/provide/vod","playUrl":"https://www.ikdmjx.com/?url="},
+//{"type":1,"key":"01","name":"爱酷♥","api":"https://ikunzy.vip/api.php/provide/vod","playUrl":"https://www.ikdmjx.com/?url="},
 {"sites":[
-{"type":1,"key":"01","name":"豪华🐟","api":"https://www.haohuaziyuan.com/api.php/provide/vod/"},
-{"type":1,"key":"02","name":"奇虎🐟","api":"https://caiji.qhzyapi.com/api.php/provide/vod/"},
-{"type":1,"key":"03","name":"金鹰🐟","api":"https://jyzyapi.com/provide/vod/"},
-{"type":1,"key":"04","name":"天空🐟","api":"https://m3u8.tiankongapi.com/api.php/provide/vod/"},
-{"type":1,"key":"05","name":"量子🐟","api":"https://cj.lziapi.com/api.php/provide/vod/"},
+{"type":1,"key":"01","name":"豪华♥","api":"https://www.haohuaziyuan.com/api.php/provide/vod/"},
+{"type":1,"key":"02","name":"奇虎♥","api":"https://caiji.qhzyapi.com/api.php/provide/vod/"},
+{"type":1,"key":"03","name":"金鹰♥","api":"https://jyzyapi.com/provide/vod/"},
+{"type":1,"key":"04","name":"天空♥","api":"https://m3u8.tiankongapi.com/api.php/provide/vod/"},
+{"type":1,"key":"05","name":"量子♥","api":"https://cj.lziapi.com/api.php/provide/vod/"},
 
-{"type":3,"key":"12","name":"短剧🐟","api":"csp_AppYsV2","ext":"http://106.52.241.21:83/api.php/app/"},
-{"type":1,"key":"00","name":"5566🐟","api":"https://caiji.5566ziyuan.com/api.php/provide/vod/"}//"name":"海洋🐟","api":"https://www.seacms.org/zyapi.php/"
+{"type":3,"key":"12","name":"短剧♥","api":"csp_AppYsV2","ext":"http://106.52.241.21:83/api.php/app/"},
+{"type":1,"key":"00","name":"5566♥","api":"https://caiji.5566ziyuan.com/api.php/provide/vod/"}//"name":"海洋♥","api":"https://www.seacms.org/zyapi.php/"
 
 ],
 "parses":[
@@ -16,7 +16,7 @@
 {"name":"虾米解析","type":0,"url":"https://jx.xmflv.com/?url="}
 ],
 
-"spider":"https://cns.xn--yhqu5zs87a.top/https://raw.githubusercontent.com/cc638/T/c/AA.jar",
+"spider":"https://cns.xn--yhqu5zs87a.top/https://raw.github.com/cc638/T/c/AA.jar",
 "wallpaper":"https://cdn.bbj.icu/bbjposter/20230330/p2883062010.jpg",
 
 "lives":[
