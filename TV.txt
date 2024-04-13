@@ -13,9 +13,6 @@ CCTV10,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
 CCTV11,https://node1.olelive.com:6443/live/CCTV11HD/hls.m3u8
 CCTV12,https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
 CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-CETV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8
-CETV2,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001226/index.m3u8
-CETV4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
 
 卫视频道,#genre#
 安徽卫视,http://113.205.185.28:8089/newlive/live/hls/25/live.m3u8
