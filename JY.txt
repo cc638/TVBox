@@ -16,7 +16,7 @@
 {"name":"虾米解析","type":0,"url":"https://jx.xmflv.com/?url="}
 ],
 
-"spider":"https://cns.xn--yhqu5zs87a.top/https://raw.github.com/cc638/T/c/AA.jar",
+"spider":"https://raw.KKgithub.com/cc638/T/c/AA.jar",
 "wallpaper":"https://cdn.bbj.icu/bbjposter/20230330/p2883062010.jpg",
 
 "lives":[
