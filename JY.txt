@@ -1,7 +1,7 @@
 {"sites":[
-{"type":1,"key":"01","name":"豪华♥","api":"https://www.haohuaziyuan.com/api.php/provide/vod/"},
-{"type":1,"key":"04","name":"天空♥","api":"https://m3u8.tiankongapi.com/api.php/provide/vod/"},
-{"type":1,"key":"05","name":"量子♥","api":"https://cj.lziapi.com/api.php/provide/vod/"},
+{"type":1,"key":"01","name":"豪华♥","api":"https://www.haohuaziyuan.com/api.php/provide/vod//from/hhm3u8"},
+{"type":1,"key":"04","name":"天空♥","api":"https://api.tiankongapi.com/api.php/provide/vod/from/tkm3u8"},
+{"type":1,"key":"05","name":"量子♥","api":"https://cj.lziapi.com/api.php/provide/vod//from/lzm3u8"},
 {"type":1,"key":"00","name":"5566♥","api":"https://caiji.5566ziyuan.com/api.php/provide/vod/"}
 ],
 "parses":[
