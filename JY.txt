@@ -10,7 +10,7 @@
 {"name":"虾米解析","type":0,"url":"https://jx.xmflv.com/?url="}
 ],
 "spider":"https://fastraw.ixnic.net/cc638/T/c/AA.jar",
-"wallpaper":"https://fastraw.ixnic.net/cc638/T/c/tupian.jpeg",
+"wallpaper":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cc638/T/c/tupian.jpg",
 "lives":[
 {"name":"中国电信","type":0,"logo":"https://live.imxd.top/logo/{name}.png","url":"https://fastraw.ixnic.net/cc638/T/c/TV.txt"},
 {"name":"中国移动","type":0,"logo":"https://live.imxd.top/logo/{name}.png","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"}
