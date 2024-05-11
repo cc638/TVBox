@@ -1,12 +1,11 @@
 {"sites":[
-{"type":1,"key":"01","name":"豪华♥","api":"https://www.haohuaziyuan.com/api.php/provide/vod//from/hhm3u8"},
-{"type":1,"key":"04","name":"天空♥","api":"https://api.tiankongapi.com/api.php/provide/vod/from/tkm3u8"},
-{"type":1,"key":"05","name":"量子♥","api":"https://cj.lziapi.com/api.php/provide/vod//from/lzm3u8"},
-{"type":1,"key":"00","name":"5566♥","api":"https://caiji.5566ziyuan.com/api.php/provide/vod/"}
+{"type":1,"key":"01","name":"豪华♥","api":"https://www.haohuaziyuan.com/api.php/provide/vod/from/hhm3u8"},
+{"type":3,"key":"02","name":"APPP♥","api":"csp_AppYsV2","ext":"https://cc.serv00.net/api.php/app/"},
+{"type":1,"key":"03","name":"自建♥","api":"https://cc.serv00.net/api.php/provide/vod/"}
 ],
 "parses":[
 {"name":"bi站解析","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
-{"name":"初恋解析","type":0,"url":"https://t1.qlplayer.cyou/player/analysis.php?v="},
+{"name":"5566解析","type":0,"url":"https://jx.5566jiexi.com/?url="},
 {"name":"虾米解析","type":0,"url":"https://jx.xmflv.com/?url="}
 ],
 "spider":"https://fastraw.ixnic.net/cc638/T/c/AA.jar",
