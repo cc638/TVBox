@@ -1,5 +1,5 @@
 {"sites":[
-{"type":1,"key":"01","name":"豪华♥","api":"https://www.haohuaziyuan.com/api.php/provide/vod/from/hhm3u8"},
+{"type":1,"key":"01","name":"豪华♥","api":"https://hhzyapi.com/api.php/provide/vod/"},
 {"type":3,"key":"02","name":"APPP♥","api":"csp_AppYsV2","ext":"https://cc.serv00.net/api.php/app/"},
 {"type":1,"key":"03","name":"自建♥","api":"https://cc.serv00.net/api.php/provide/vod/"}
 ],
