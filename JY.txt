@@ -1,7 +1,7 @@
 {"sites":[
 {"type":1,"key":"01","name":"豪华♥","api":"https://hhzyapi.com/api.php/provide/vod/"},
-{"type":3,"key":"02","name":"APPP♥","api":"csp_AppYsV2","ext":"https://cc.serv00.net/api.php/app/"},
-{"type":1,"key":"03","name":"自建♥","api":"https://cc.serv00.net/api.php/provide/vod/"}
+{"type":1,"key":"02","name":"天空♥","api":"https://api.tiankongapi.com/api.php/provide/vod/"},
+{"type":1,"key":"03","name":"5566♥","api":"https://caiji.5566ziyuan.com/api.php/provide/vod/"}
 ],
 "parses":[
 {"name":"bi站解析","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
