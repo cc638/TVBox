@@ -1,0 +1,14 @@
+{"sites":[
+{"type":0,"key":"01","name":"专线","api":"https://cc.serv00.net/inc/api.php"},
+{"type":1,"key":"02","name":"五六","api":"https://caiji.5566ziyuan.com/api.php/provide/vod/"}
+],
+"parses":[
+{"name":"bi站解析","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
+{"name":"虾米解析","type":0,"url":"https://jx.xmflv.com/?url="}
+],
+"spider":"https://fastraw.ixnic.net/cc638/T/c/AA.jar",
+"wallpaper":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cc638/T/c/tupian.jpg",
+"lives":[
+{"name":"中国电信","type":0,"logo":"https://live.imxd.top/logo/{name}.png","url":"https://fastraw.ixnic.net/cc638/T/c/TV.txt"}
+],
+"flags":["bilibili","youku","qiyi","mgtv","pptv","m1905","letv","sohu","qq"]}
