@@ -7,10 +7,10 @@
 {"name":"bi站解析","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 {"name":"虾米解析","type":0,"url":"https://jx.xmflv.com/?url="}
 ],
-"spider":"https://fastraw.ixnic.net/cc638/T/c/AA.jar",
-"wallpaper":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cc638/T/c/tupian.jpg",
+"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cc638/T/c/AA.jar",
+"wallpaper":"https://github.moeyy.xyz/https://raw.github.com/cc638/T/c/tupian.jpg",
 "lives":[
-{"name":"中国电信","type":0,"logo":"https://live.imxd.top/logo/{name}.png","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cc638/T/c/TV.txt"}
+{"name":"中国电信","type":0,"logo":"https://live.imxd.top/logo/{name}.png","url":"https://github.moeyy.xyz/https://raw.github.com/cc638/T/c/TV.txt"}
 ],
 "ijk":[
 {"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-rangeupport","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurateeek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},
