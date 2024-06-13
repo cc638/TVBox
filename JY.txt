@@ -1,13 +1,9 @@
 {"sites":[
-{"type":1,"key":"01","name":"专线","api":"https://hhzyapi.com/api.php/provide/vod/"},
-{"type":1,"key":"02","name":"影图","api":"https://cj.vodimg.top/api.php/provide/vod/"},
-{"type":1,"key":"03","name":"黑木耳","api":"https://www.heimuer.tv/api.php/provide/vod/"},
-{"type":1,"key":"04","name":"新感觉","api":"http://27.54.236.201/api.php/provide/vod/"},
-{"type":3,"key":"05","name":"电影狗","api":"csp_AppYsV2","ext":"http://app.88dyg.com/icciu_api.php/v1.vod"}
+{"type":1,"key":"01","name":"琉璃","api":"https://www.liuliyy.com/api.php/provide/vod/"},
+{"type":1,"key":"02","name":"黑木耳","api":"https://www.heimuer.tv/api.php/provide/vod/"}
 ],
 "parses":[
-{"name":"bi站解析","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
-{"name":"虾米解析","type":0,"url":"https://jx.xmflv.com/?url="}
+{"name":"专线解析","type":0,"url":"https://jx.xmflv.com/?url="}
 ],
 "spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cc638/T/c/AA.jar",
 "wallpaper":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cc638/T/c/tupian.jpg",
