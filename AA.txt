@@ -1,0 +1,7 @@
+{"sites":[
+{"type":1,"key":"01","name":"常常","api":"https://cc.serv00.net/api.php/provide/vod/"}
+],
+"lives":[
+{"name":"中国电信","type":0,"logo":"https://live.imxd.top/logo/{name}.png","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cc638/T/c/TV.txt"}
+]
+}
