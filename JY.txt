@@ -1,6 +1,6 @@
 {"sites":[
-{"type":1,"key":"01","name":"琉璃","api":"https://www.liuliyy.com/api.php/provide/vod/"},
-{"type":1,"key":"02","name":"黑木耳","api":"https://www.heimuer.tv/api.php/provide/vod/"}
+{"type":1,"key":"01","name":"专线","api":"https://www.liuliyy.com/api.php/provide/vod/"},
+{"type":1,"key":"02","name":"备用","api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/"}
 ],
 "parses":[{"name":"专线解析","type":0,"url":"https://jx.xmflv.com/?url="}],
 "spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cc638/T/c/AA.jar",
