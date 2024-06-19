@@ -1,5 +1,5 @@
 {"sites":[
-{"type":1,"key":"01","name":"专线","api":"https://mycj-json.heimuer.xyz/api.php/provide/vod/"}
+{"type":1,"key":"01","name":"专线","api":"https://www.liuliyy.com/api.php/provide/vod/"}
 ],
 "parses":[{"name":"专线解析","type":0,"url":"https://jx.xmflv.com/?url="}],
 "spider":"https://github.moeyy.xyz/https://raw.github.com/cc638/T/c/AA.jar",
