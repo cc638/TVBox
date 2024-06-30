@@ -9,6 +9,7 @@
 {"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="},
 {"name":"看看","type":0,"url":"https://jx.m3u8.pw/?url="}
 ],
+"spider":"./AA.jar",
 "lives":[
-{"name":"中国电信","type":0,"logo":"https://live.imxd.top/logo/{name}.png","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cc638/T/c/TV.txt"}
+{"name":"中国电信","type":0,"logo":"https://live.imxd.top/logo/{name}.png","url":"https://github.moeyy.xyz/https://raw.github.com/cc638/T/c/TV.txt"}
 ]}
