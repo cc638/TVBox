@@ -2,14 +2,18 @@
 {"type":1,"key":"00","name":"琉璃","api":"https://www.liuliyy.com/api.php/provide/vod/"},
 {"type":1,"key":"01","name":"专线","api":"https://cc.serv00.net/api.php/provide/vod/"},
 {"type":0,"key":"02","name":"备用","api":"https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list"},
-{"type":0,"key":"03","name":"官源","api":"https://www.seacms.org/zyapi.php"}
+{"type":0,"key":"03","name":"官源","api":"https://www.seacms.org/zyapi.php"},
+{"type":3,"key":"04","name":"新新","api":"csp_AppYsV2","ext":"http://4k.953365.cn:8090/xgapp.php/v3/"},
+{"type":3,"key":"05","name":"速看","api":"csp_AppYsV2","ext":"https://sk100.tv/api.php/app/"},
+{"type":3,"key":"06","name":"迪迪","api":"csp_AppYsV2","ext":"https://api123.adys.app/xgapp.php/v3/"},
+{"type":3,"key":"07","name":"佳佳","api":"csp_AppYsV2","ext":"https://yanetflix.me/api.php/app/"},
+{"type":3,"key":"08","name":"影库","api":"csp_AppYsV2","ext":"http://39.98.32.241:6688/api.php/zjv3.vod"}
 ],
 "parses":[
 {"name":"专线解析","type":0,"url":"https://jx.xmflv.com/?url="},
 {"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="},
 {"name":"看看","type":0,"url":"https://jx.m3u8.pw/?url="}
 ],
-"spider":"./AA.jar",
-"lives":[
-{"name":"中国电信","type":0,"logo":"https://live.imxd.top/logo/{name}.png","url":"https://github.moeyy.xyz/https://raw.github.com/cc638/T/c/TV.txt"}
-]}
+"spider":"https://github.moeyy.xyz/https://raw.github.com/cc638/T/c/AA.jar",
+"lives":[{"name":"中国电信","type":0,"logo":"https://live.imxd.top/logo/{name}.png","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cc638/T/c/TV.txt"}],
+"flags":["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "tucheng", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "yzm", "aliyun", "RJuMao", "bilibili", "1905", "xinvip", "XAL", "qiqi", "XALS", "YuMi-vip"]}
