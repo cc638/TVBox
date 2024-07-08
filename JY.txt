@@ -1,13 +1,8 @@
 {"sites":[
-{"type":1,"key":"00","name":"琉璃","api":"https://www.liuliyy.com/api.php/provide/vod/"},
-{"type":1,"key":"01","name":"专线","api":"https://cc.serv00.net/api.php/provide/vod/"},
-{"type":0,"key":"02","name":"备用","api":"https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list"},
-{"type":0,"key":"03","name":"官源","api":"https://www.seacms.org/zyapi.php"},
-{"type":3,"key":"04","name":"新新","api":"csp_AppYsV2","ext":"http://4k.953365.cn:8090/xgapp.php/v3/"},
-{"type":3,"key":"05","name":"速看","api":"csp_AppYsV2","ext":"https://sk100.tv/api.php/app/"},
-{"type":3,"key":"06","name":"迪迪","api":"csp_AppYsV2","ext":"https://api123.adys.app/xgapp.php/v3/"},
-{"type":3,"key":"07","name":"佳佳","api":"csp_AppYsV2","ext":"https://yanetflix.me/api.php/app/"},
-{"type":3,"key":"08","name":"影库","api":"csp_AppYsV2","ext":"http://39.98.32.241:6688/api.php/zjv3.vod"}
+{"type":3,"key":"06","name":"合力","api":"csp_AppYsV2","ext":"https://www.heli888.cc/api.php/app/"},
+{"type":3,"key":"07","name":"韩流","api":"csp_AppYsV2","ext":"http://ww.hanliu8.cn:9891/api.php/app/"},
+{"type":3,"key":"08","name":"佳佳","api":"csp_AppYsV2","ext":"https://yanetflix.me/api.php/app/"},
+{"type":1,"key":"00","name":"琉璃","api":"https://www.liuliyy.com/api.php/provide/vod/"}
 ],
 "parses":[
 {"name":"专线解析","type":0,"url":"https://jx.xmflv.com/?url="},
