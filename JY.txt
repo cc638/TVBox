@@ -1,17 +1,12 @@
-{"sites":[
-{"type":3,"key":"06","name":"合力","api":"csp_AppYsV2","ext":"https://www.heli888.cc/api.php/app/"},
-{"type":3,"key":"07","name":"韩流","api":"csp_AppYsV2","ext":"http://ww.hanliu8.cn:9891/api.php/app/"},
-{"type":3,"key":"08","name":"佳佳","api":"csp_AppYsV2","ext":"https://yanetflix.me/api.php/app/"},
-{"type":1,"key":"00","name":"琉璃","api":"https://www.liuliyy.com/api.php/provide/vod/"}
+{"sites":[ 
+{"type":3,"key":"1","name":"合力","api":"csp_AppYsV2","ext":"https://www.heli888.cc/api.php/app/"},
+{"type":3,"key":"2","name":"韩流","api":"csp_AppYsV2","ext":"http://ww.hanliu8.cn:9891/api.php/app/"},
+{"type":3,"key":"3","name":"自建","api":"csp_AppYsV2","ext":"https://cc.serv00.net/api.php/app/"}
 ],
 "parses":[
-{"name":"专线解析","type":0,"url":"https://jx.xmflv.com/?url="},
-{"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="},
-{"name":"看看","type":0,"url":"https://jx.m3u8.pw/?url="}
+{"name":"虾米","type":0,"url":"https://jx.xmflv.cc/?url="},
+{"name":"站点","type":0,"url":"https://video.idey.cn/?link="}
 ],
-"spider":"https://github.moeyy.xyz/https://raw.github.com/cc638/T/c/AA.jar",
-"lives":[{"name":"中国电信","type":0,"logo":"https://live.imxd.top/logo/{name}.png","url":"https://github.moeyy.xyz/https://raw.github.com/cc638/T/c/ATV.txt"}],
-"ijk":[
-{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-rangeupport","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurateeek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},
-{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-rangeupport","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurateeek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
-"flags":["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "tucheng", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "yzm", "aliyun", "RJuMao", "bilibili", "1905", "xinvip", "XAL", "qiqi", "XALS", "YuMi-vip"]}
+"spider":"https://tv.菜妮丝.top/jar/fm0625.jar",
+"lives":[{"name":"中国电信","type":0,"logo":"https://live.imxd.top/logo/{name}.png","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cc638/T/c/ATV.txt"}],
+"flags":["bilibili","youku","qiyi","mgtv","pptv","m1905","letv","sohu","qq"]}
