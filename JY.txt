@@ -13,8 +13,6 @@
 {"name":"红狐","type":0,"url":"https://player.mrgaocloud.com/player/?url="},
 {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url="},
 {"name":"解析","type":0,"url":"https://json.ovvo.pro/jx.php?url="},
-{"name":"初恋1","type":0,"url":"https://ys.adminqt.cn/?key=7A8FRCUH6MbuECftbY&amp;url="},
-{"name":"少则","type":0,"url":"http://jx.shaozeyy.com:1314/player/?url="},
 {"name":"初恋","type":0,"url":"https://t1.qlplayer.cyou/player/analysis.php?v="},
 
 
