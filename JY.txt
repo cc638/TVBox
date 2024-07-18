@@ -19,5 +19,5 @@
 {"name":"点数","type":0,"url":"https://jiexi.ysctv.cn/khd/?uid=35512&key=cfmoptwCEHIMOS0348&url="}
 ],
 "spider":"https://tv.菜妮丝.top/jar/fm0625.jar",
-"lives":[{"name":"电信","type":0,"logo":"https://live.imxd.top/logo/{name}.png","url":"https://github.moeyy.xyz/https://raw.github.com/cc638/T/c/ATV.txt"}],
+"lives":[{"name":"电信","type":0,"url":"https://raw.github.com/cc638/T/cc/ATV.txt"}],
 "flags":["qq","qiyi","youku","bilibili"]}
