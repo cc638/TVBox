@@ -1,6 +1,6 @@
 {"flags":["qq","qiyi","youku","bilibili"],
 "spider":"https://tv.菜妮丝.top/jar/fm0625.jar",
-"lives":[{"name":"电信","type":0,"url":"https://raw.github.com/cc638/T/cc/ATV.txt"}],
+"lives":[{"name":"电信","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cc638/T/cc/ATV.txt"}],
 "sites":[
 {"type":3,"key":"0","name":"合力","api":"csp_AppYsV2","ext":"https://www.heli888.cc/api.php/app/"},
 {"type":3,"key":"1","name":"韩流","api":"csp_AppYsV2","ext":"http://ww.hanliu8.cn:9891/api.php/app/"},
