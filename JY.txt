@@ -3,8 +3,8 @@
 "lives":[{"name":"电信","type":0,"url":"./ATV.txt"}],
 "sites":[
 {"type":1,"key":"1","name":"优质","api":"https://api.1080zyku.com/inc/api_mac10.php"},
-{"type":1,"key":"2","name":"无尽","api":"https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/"},
-{"type":1,"key":"3","name":"海洋","api":"https://www.seacms.org/zyapi.php"}
+{"type":0,"key":"2","name":"无尽","api":"https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/"},
+{"type":0,"key":"3","name":"海洋","api":"https://www.seacms.org/zyapi.php"}
 ],
 "parses":[
 {"name":"全民","type":0,"url":"http://api.quanminjiexi.com/?v="},
