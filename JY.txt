@@ -1,17 +1,13 @@
-{"flags":["qq","qiyi","youku","mgtv","bilibili"],
-"spider":"./AA.jar",
-"lives":[{"name":"电信","type":0,"url":"./ATV.txt"}],
-"sites":[
-{"type":3,"key":"0","name":"合力","api":"csp_AppYsV2","ext":"https://www.heli888.cc/api.php/app/"},
-{"type":3,"key":"1","name":"韩流","api":"csp_AppYsV2","ext":"http://ww.hanliu8.cn:9891/api.php/app/"},
-{"type":3,"key":"2","name":"自建","api":"csp_AppYsV2","ext":"https://cc.serv00.net/api.php/app/"},
-{"type":1,"key":"3","name":"影图","api":"https://cj.vodimg.top/api.php/provide/vod/"},
-{"type":1,"key":"3","name":"优质","api":"https://api.1080zyku.com/inc/api_mac10.php"}
+{“旗帜”:[“QQ”、“齐一”、“优酷”、“mgtv”、“哔哩哔哩”]，
+“蜘蛛”:/AA.jar "，
+" lives":[{"name ":"电信”，“类型”:0，“url”:/ATV.txt"}]，
+"站点":[
+{"type":1,"key":"1","name":"优质","api":"https://api.1080zyku.com/inc/api_mac10.php"},
+{"type":1,"key":"2","name":"无尽","api":"https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/"},
+{"type":1,"key":"3","name":"海洋","api":"https://www.seacms.org/zyapi.php"}
 ],
-"parses":[
+"解析":[
 {"name":"全民","type":0,"url":"http://api.quanminjiexi.com/?v="},
-{"name":"解析","type":0,"url":"https://jx.jiexila.com/?url="},
 {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url="},
-{"name":"初恋","type":0,"url":"https://t1.qlplayer.cyou/player/analysis.php?v="},
-{"name":"点数","type":0,"url":"https://jiexi.ysctv.cn/khd/?uid=35512&key=cfmoptwCEHIMOS0348&url="}
+{"name":"初恋","type":0,"url":"https://t1.qlplayer.cyou/player/analysis.php?v="}
 ]}
