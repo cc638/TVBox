@@ -2,12 +2,11 @@
 "spider":"./AA.jar",
 "lives":[{"name":"电信","type":0,"url":"./ATV.txt"}],
 "sites":[
-{"type":1,"key":"1","name":"优质","api":"https://api.1080zyku.com/inc/api_mac10.php"},
-{"type":0,"key":"2","name":"无尽","api":"https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/"},
-{"type":0,"key":"3","name":"海洋","api":"https://www.seacms.org/zyapi.php"}
+{"type":0,"key":"1","name":"无尽","api":"https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/"},
+{"type":0,"key":"2","name":"如意","api":"https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml/"},
+{"type":0,"key":"3","name":"花旗","api":"https://www.seacms.org/zyapi.php/"}
 ],
 "parses":[
-{"name":"全民","type":0,"url":"http://api.quanminjiexi.com/?v="},
 {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url="},
-{"name":"初恋","type":0,"url":"https://t1.qlplayer.cyou/player/analysis.php?v="}
+{"name":"M1907","type":0,"url":"https://im1907.top/?jx="}
 ]}
