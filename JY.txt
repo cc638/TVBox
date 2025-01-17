@@ -1,6 +1,6 @@
 {"flags":["qq","qiyi","youku","mgtv","bilibili"],
 "spider":"./AA.jar",
-"lives":[{"name":"电信","type":0,"url":"./ATV.txt"}],
+"lives":[{"name":"电信","type":0,"url":"https://d.kstore.dev/download/10719/ATV.txt"}],
 "sites":[
 {"type":0,"key":"1","name":"无尽","api":"https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/"},
 {"type":0,"key":"2","name":"如意","api":"https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml/"},
