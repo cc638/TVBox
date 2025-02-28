@@ -1,74 +1,17 @@
+//此行不能删除 "csp_AppYsV2","ext":"https://cc.serv00.net/api.php/app/"
 {
-  "flags": [
-    "qq",
-    "qiyi",
-    "youku",
-    "mgtv",
-    "bilibili"
-  ],
-  "spider": "https://d.kstore.dev/download/10719/AA.jar",
-  "lives": [
-    {
-      "name": "TVBOX",
-      "type": 0,
-      "url": "https://d.kstore.dev/download/10719/ATV.txt"
-    }
-  ],
-  "sites": [
-    {
-      "type": 1,
-      "key": "0",
-      "name": "无尽",
-      "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/json/"
-    },
-    {
-      "type": 0,
-      "key": "1",
-      "name": "如意",
-      "api": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml/"
-    },
-    {
-      "type": 1,
-      "key": "2",
-      "name": "花旗",
-      "api": "https://www.seacms.org/api.php/provide/vod/?ac=list"
-    },
-    {
-      "type": 3,
-      "key": "3",
-      "name": "多线",
-      "api": "csp_AppYsV2",
-      "ext": "https://cc.serv00.net/api.php/app/"
-    },
-    {
-      "type": 1,
-      "key": "4",
-      "name": "暴风",
-      "api": "https://bf.xoxowin86cisyap.com//api.php/provide/vod/at/json/"
-    },
-    {
-      "type": 0,
-      "key": "5",
-      "name": "优质",
-      "api": "https://api.yzzy-api.com/inc/ldg_api.php"
-    },
-    {
-      "type": 1,
-      "key": "6",
-      "name": "天空",
-      "api": "https://api.tiankongapi.com/api.php/provide/vod/?ac=list"
-    }
-  ],
-  "parses": [
-    {
-      "name": "夜幕",
-      "type": 0,
-      "url": "https://www.yemu.xyz/?url="
-    },
-    {
-      "name": "M1907",
-      "type": 0,
-      "url": "https://im1907.top/?jx="
-    }
-  ]
+"flags":["qq","qiyi","youku","mgtv","bilibili"],
+"spider":"https://ghfast.top/https://raw.githubusercontent.com/cc638/T/cc/AA.jar",
+"lives":[
+{"name":"CCBOX","type":0,"url":"http://ccbox.uno:222/txt"}
+],
+"sites":[
+{"type":1,"key":"0","name":"无尽","api":"https://api.wujinapi.me/api.php/provide/vod/"},
+{"type":1,"key":"1","name":"备用","api":"https://cj.rycjapi.com/api.php/provide/vod/"},
+{"type":1,"key":"2","name":"花旗","api":"https://www.seacms.org/api.php/provide/vod/"},
+{"type":1,"key":"3","name":"多线","api":"https://cc.serv00.net/api.php/provide/vod/"}
+],
+"parses":[
+{"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url="}
+]
 }
