@@ -1,6 +1,6 @@
 //此行不能删除 "csp_AppYsV2","ext":"https://cc.serv00.net/api.php/app/"
 //此行不能删除 "csp_AppYsV2","ext":"http://111.229.160.94:5555/apptov5/v1/"
-//此行不能删除 "api":"https://api.wujinapi.me/api.php/provide/vod/","Playurl":"https://www.yemu.xyz/?url="},
+//此行不能删除 "api":"https://api.wujinapi.me/api.php/provide/vod/","playUrl":"https://www.yemu.xyz/?url="},
 {
 "flags":["qq","qiyi","youku","mgtv","bilibili"],
 "spider":"https://ghfast.top/https://raw.githubusercontent.com/cc638/T/cc/AA.jar",
